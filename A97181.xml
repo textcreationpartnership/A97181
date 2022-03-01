@@ -1,0 +1,939 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gayne of losse or temporall losses spiritually improved in a centurye &amp; one decad of meditations &amp; resolves. By John Warner M.A. sometimes of Magd: Hall in Oxo: &amp; one of the ministers of the London Brigade in the late western expedition 1644.</title>
+            <author>Warner, John, b. 1612 or 13.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 91 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97181</idno>
+            <idno type="STC">Wing W904</idno>
+            <idno type="STC">Thomason E1194_1</idno>
+            <idno type="EEBO-CITATION">99867645</idno>
+            <idno type="PROQUEST">99867645</idno>
+            <idno type="VID">169458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1194[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gayne of losse or temporall losses spiritually improved in a centurye &amp; one decad of meditations &amp; resolves. By John Warner M.A. sometimes of Magd: Hall in Oxo: &amp; one of the ministers of the London Brigade in the late western expedition 1644.</title>
+                  <author>Warner, John, b. 1612 or 13.</author>
+               </titleStmt>
+               <extent>[18], 162 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for H. Blunden at the Castle in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With an engraved title page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169458:1" rendition="simple:additions"/>
+            <figure>
+               <q>Interna habeo. Eterna habebo. Externa habui. <bibl> reposita 1. Tim: 4.8.</bibl>
+               </q>
+            </figure>
+            <p>THE GAYNE of LOSSE OR TEMPORALL LOSSES SPIRITVALLY IMPROVED.</p>
+            <p>In a Centurye &amp; one Decad of Meditations &amp; Reſolves.</p>
+            <p>By <hi>John Warner</hi> M. A. ſometimes of Magd: Hall in Oxo: &amp; one of the Ministers of the London Brigade in the late Western Expedition <hi>1644.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p> 
+               <bibl>Plutarch in Paedag:</bibl>
+            </q>
+            <q>
+               <bibl>Isai: <hi>42.24.</hi>
+               </bibl>
+               <p>Who gave Jacob for a spoyle, and Israel to the robbers? Did not the Lord, he against whom we have sinned?</p>
+            </q>
+            <p>
+               <hi>London.</hi> Printed by M.S for H. <hi>Blunden</hi> at the Cas<g ref="char:cmbAbbrStroke">̄</g>tle in Corn-hill. <hi>1645.</hi>
+            </p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:169458:2"/>
+            <head>The Approbation.</head>
+            <p>
+               <hi>I</hi> Have peruſed this Treatiſe, intituled, <hi>Temporall Loſſes ſpiritually improved:</hi> In which finding nothing but what is pious, ſound and profitable, I allow to be printed.</p>
+            <closer>
+               <date>
+                  <hi>Novemb. 27. 1644.</hi>
+               </date>
+               <signed>Iohn Downam.</signed>
+            </closer>
+            <pb facs="tcp:169458:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169458:3"/>
+            <pb facs="tcp:169458:3"/>
+            <head>TO HIS HONOU<g ref="char:EOLhyphen"/>RED FRIEND, that pious Gentleman, Mr. <hi>John Aſh,</hi> a worthy Member of the honourable Houſe of Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Annibal</hi> being to en<g ref="char:EOLhyphen"/>counter with <hi>Minutius</hi> in the vale,<note place="margin">Liv. hiſt Polyb.</note> was not ſo much daunted with the preſent enemy, as with <hi>Fabius Maximus,</hi> who faced him on a mountain in the Reare; and
+<pb facs="tcp:169458:4"/>therefore ſaid, hee feared that cloud hovering aloft, would ere long poure down upon him. It was not our ene<g ref="char:EOLhyphen"/>mies neer at hand I feared, being o<g ref="char:EOLhyphen"/>ver-powered by our Forces, as that Weſtern cloud, which like <hi>Elijahs</hi> of a handfull increaſed ſo as to over<g ref="char:EOLhyphen"/>ſpread the face of our countrey; and againſt the expectation of the wiſeſt, poured downe our next<note n="*" place="margin">Munk. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on Fer<g ref="char:EOLhyphen"/>dy in Wilts.</note> adjacent hill, and as a confluence of many waters, drove all reſiſtance before it. Hereby it came to paſſe, that the place where I lived, became like that place to which <hi>Paul</hi> &amp; his companie were driven,<note place="margin">Acts 27.4.</note> where two ſeas met; ſo that by the ſtronger waters the Bark of my eſtate was, with ſome of my beſt neighbours, in a moment, ſwallowed up, and carried away. Yet in this danger, notwithſtanding the earneſt enquirie of the enemy after me, and as earneſt purſuit, God gave me my life as a prey to my ſelfe. Now
+<pb facs="tcp:169458:4"/>after my eſcape, having got into a private Sanctuary, my ſad ſpirit un<g ref="char:EOLhyphen"/>fit for publick exerciſes, ſtudied this Text which the enemies had given me, and from my loſſes by them gai<g ref="char:EOLhyphen"/>ned this Manuell of Meditations, uſefull for my ſelfe and others in theſe times of loſing, which were compo<g ref="char:EOLhyphen"/>ſed by me in as much danger as <hi>Ar<g ref="char:EOLhyphen"/>chimedes</hi> was in drawing his lines when the city was befieged.<note n="*" place="margin">Made by me at the ſiege of Gloce<g ref="char:EOLhyphen"/>ſter.</note> Admire you may at firſt my boldneſs, why (con<g ref="char:EOLhyphen"/>ſidering my ſmall acquaintance with you) I ſhould dedicate this poor peece unto you; but if you conſider all, you might otherwiſe admire my unthank<g ref="char:EOLhyphen"/>fulneſs. For, Sir, you may remember, (unleſs the multitude of your libera<g ref="char:EOLhyphen"/>lity to others make you forgetfull) how that ſome years ſince I did large<g ref="char:EOLhyphen"/>ly partake of your bounty; wherein I know not whether your gift, or the manner of giving, exceeded, which was ſo farre from oſtentation, that I
+<pb facs="tcp:169458:5"/>dare ſay your left hand knew not what your right hand did, ſeeing you had no diſtinct knowledg of the recei<g ref="char:EOLhyphen"/>ver, nor would you be known to be the giver, till ſome moneths after an ear<g ref="char:EOLhyphen"/>neſt deſire of ſhewing my ſelfe thank<g ref="char:EOLhyphen"/>full, prevailed with the meſſenger to diſcover ſuch a hidden friend unto me. But beſides private reſpects, your activeneſſe for the publick good, as well in the City as Countrey, and your patience under great private loſſes, doe challenge all reſpect from your Countreymen. As you have done much for Chriſt, ſo have you ſuffered much, not only by the Prelates hereto<g ref="char:EOLhyphen"/>fore, but by their ſupporters now. In theſe evill times few great men are good, and therefore good great men ſhould be great in the eſteem of others. Sad experience demonſtrates, how too many of the nobler &amp; richer ſort en<g ref="char:EOLhyphen"/>devour to make themſelves by undoing others, and ſtrive to erect a Babell of
+<pb facs="tcp:169458:5"/>their own eſtates, by the ruine of ma<g ref="char:EOLhyphen"/>ny families. It was an obſervation of the Hiſtorian, ſpeaking of the Ci<g ref="char:EOLhyphen"/>vill warres of <hi>Caeſar</hi> and <hi>Pompey,</hi>
+               <note place="margin">Cluver. Oroſ. ii. 6. c. 4. c. 4.</note> that <hi>Nemo ſanctus injuriam privatam patriae ſubverſione vin<g ref="char:EOLhyphen"/>dicandam duceret.</hi> Yet how few ſuch men, or ſuch behaviours are to be found among us, our countries in the Weſt doe lametably ſhew, which by the continued<note n="*" place="margin">Creſ cente per rapinas ſtud to &amp; volu<g ref="char:EOLhyphen"/>prate ra<g ref="char:EOLhyphen"/>piendi. Cluveri Hiſt. mund. p, 230.</note> rapine and cruel<g ref="char:EOLhyphen"/>ty of thoſe ſons of <hi>Belial,</hi> of a Garden of <hi>Eden,</hi> are made like a deſolate wilderneſſe. The Lord of Hoſts did lately raiſe an Army for the help of thoſe parts, but he denied his bleſſing on the deſigne; not onely becauſe the inſtruments were unworthy to deli<g ref="char:EOLhyphen"/>ver, but becauſe the country was unfit for deliverance; eſpecially that Hea<g ref="char:EOLhyphen"/>theniſh country of <hi>Cornwal</hi> (where God did break our arm of fleſh) who are a people that ever ſince the light of the Goſpel did firſt break out a<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:169458:6"/>us, under the reigne of<note n="*" place="margin">Camb den Britan.</note> 
+               <hi>Lu<g ref="char:EOLhyphen"/>cius</hi> our firſt Chriſtian King, have hated to be reformed; and therefore have openly oppoſed<note n="*" place="margin">They did ever give voyce for the Papall conti<g ref="char:EOLhyphen"/>nuance, Speed. Hiſtor. p. 1090. col. 2. line ult.</note> all publick Re<g ref="char:EOLhyphen"/>formation of the Church, as not long ſince that in <hi>Edward</hi> the ſixth his dayes, ſo this now, as if that malig<g ref="char:EOLhyphen"/>nant ſpirit againſt the Goſpel, and their blind zeale for their <hi>Dia<g ref="char:EOLhyphen"/>na,</hi> were traduced to them from their progenitors. Our hope and comfort is, that when the Ephah of the ene<g ref="char:EOLhyphen"/>mies ſins is full, the harveſt ripe, that then the Lord will put in his ſickle and avenge himſelfe of his adverſa<g ref="char:EOLhyphen"/>ries; that though an Eaſtern wind could not cleare the countrey of thoſe Locuſts, yet a Northeaſt under God ſhall: twice did Iſrael flie before <hi>Benjamin,</hi> but the third time they prevailed. Goe on therefore, worthy Sir, and doe worthily in <hi>Ephraim,</hi> and be more famous in <hi>Bethlehem,</hi> with draw not your ſhoulder from up<g ref="char:EOLhyphen"/>holding
+<pb facs="tcp:169458:6"/>the tottering frame of this Kingdome, and you may aſſure your ſelfe of what that good Patriot <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi> deſired, <hi>viz.</hi> that the Lord would remember him for all the good be did to that people. Encourage<g ref="char:EOLhyphen"/>ments hereto you have enough, if you conſider how God hath bleſ<g ref="char:EOLhyphen"/>ſed you with bleſſings of heaven above, with bleſſings of the earth be<g ref="char:EOLhyphen"/>neath, with bleſſings of the breaſt and womb. Perhaps the Lord may borrow ſome of theſe bleſſings of you, but doubt not of his repayment, the promiſe whereof is a hundred fold with tribulation here, and hereafter eternall life. This I beleeve you will account as performed, when the Lord ſhall turn our captivitie, drive out thoſe Canaanites, and bring us to our countrey again; till which time, and for which mercy inceſſant<g ref="char:EOLhyphen"/>ly ſupplicates,</p>
+            <closer>
+               <signed>
+                  <hi>Your obliged ſervant in the Lord,</hi> John Warner.</signed>
+            </closer>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb facs="tcp:169458:7"/>
+            <pb facs="tcp:169458:7"/>
+            <head>TO ALL CHRISTIAN READERS; Eſpecially the Plundred exiles of the Weſt Countries.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing now in a ſtrange place,<note place="margin">Heb. 13.14.</note> and having no certain dwelling, Cirie or Countrey, but ſeeking and expecting one, it ſhould be the care of every beleeving ſoule, to get this time of pilgrimage ſanctified to him; for the accompliſh<g ref="char:EOLhyphen"/>ing whereof, the performance of two Chriſtian duties are moſt helpfull. The firſt is prayer and ſupplication, and this is a duty that muſt not onely reſpect our ſelves, but the publick,<note place="margin">Pſalm 122.6.</note> even thoſe Countries which now are as <hi>A<g ref="char:EOLhyphen"/>celdama's,</hi>
+               <pb facs="tcp:169458:8"/>fields of blood. Though God had decreed the reſtitution of Iſrael from captivity,<note place="margin">Ezek. 36.37. Ier. 29.11.</note> yet for it he would be enquired of by the houſe of Iſrael. Though God doth not conferre mer<g ref="char:EOLhyphen"/>cies on us becauſe of our duties, yet he will not conferre them without our du<g ref="char:EOLhyphen"/>ties. O then if you would have the Sun ariſe on that land of darkneſſe in the Weſt,<note place="margin">Cant. 2.8. Mal. 4.3.</note> pray that Chriſt would come skipping over the mountains, ariſing with healing under his wings, and en<g ref="char:EOLhyphen"/>lightning them that have a long time ſate in darkneſſe,<note place="margin">Luke 1.79. Dan. 6.10.</note> and the ſhadow of death. Look towards them as <hi>Daniel</hi> did towards Jeruſalem out of his cham<g ref="char:EOLhyphen"/>ber, beſeeching the Lord to perfect his own praiſe, and their deliverance, that the Lord would ſave his people from the Weſt country,<note place="margin">Zach. 8.7.</note> that ſo they might feare his name from the Weſt, <hi>Iſai.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9.19. The time of the deſolations of Iſ<g ref="char:EOLhyphen"/>rael was known to <hi>Daniel</hi> by his books;<note place="margin">Dan. 9.2. v. 3.</note> &amp; then being informed of it, he ſets his face to ſeek the Lord by prayer and ſup<g ref="char:EOLunhyphen"/>plication. Now though we cannot have ſuch a diſtinct knowledge of the time of deliverance for a motive to our prai<g ref="char:EOLhyphen"/>ers, as <hi>Daniel</hi> had; yet it is an infallible
+<pb facs="tcp:169458:8"/>ſigne that the Lord doth haſten to deli<g ref="char:EOLhyphen"/>ver, when he enlargeth the hearts of his people with a mighty ſpirit of ſupplica<g ref="char:EOLhyphen"/>tion. As therefore we may be confident,<note place="margin">Pſal. 102.13.</note> that there is a time appointed when the Lord will have mercy upon Sion: ſo we may be aſſured that the Lord will obſerve his time, and keep his day<note n="*" place="margin">See Ex<g ref="char:EOLhyphen"/>od. 12.41. Hab. 2. Pſal. 5.8.</note>. In the mean time we muſt ſtand upon our watch by prayer, and hearken when the Lord will ſpeak peace to his people. The ſecond duty is more particular concerning our ſelves, <hi>viz.</hi> Meditati<g ref="char:EOLhyphen"/>on. Hereby a ſoule acquaint; it ſelfe with God out of his word, or works, either of mercy or judgement. A de<g ref="char:EOLhyphen"/>jected mind is hereby ſet on wing, and made to look above ſufferings and dan<g ref="char:EOLhyphen"/>ger. Want of calling, place, and uſuall accommodation, doe ſad the ſpirits of many; and by Satans concurrence fill the hearts of many with diſcontent, murmuring, repining. It is the Devils policie, having impaired our outward eſtate, to endevour to deprive the inner man of true comfort. It ſhould be our care therefore to caſt out ſuch fretting carefull, vexing thoughts, and put on heavenly meditations. A true Chri<g ref="char:EOLhyphen"/>ſtians
+<pb facs="tcp:169458:9"/>glory is inward, unſeen to the world, his happineſſe is above, which is<note n="*" place="margin">Pſa. 45.13.</note> reſerved for him, and for which he is<note n="*" place="margin">1 pet. 1.4 1 pet. 1.5</note> kept, it being beyond the reach of the men of this<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epictet. l. <hi>3</hi> cap. <hi>22.</hi> Aliae divitiae nec verae, nec veſtrae. Bern. de bono de<g ref="char:EOLhyphen"/>ſert. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Aeneas Gaza Epiſt. <hi>5.</hi>
+               </note> world, ſo that all w<hi rend="sup">ch</hi> his enemy can deprive him of, is on<g ref="char:EOLhyphen"/>ly acceſſory to his wel being, not eſſentially required to his being. Raiſe up therfore thy meditations to con<g ref="char:EOLhyphen"/>template on thy high calling, and the high price of that calling: and then in theſe times of loſing, thou mayſt ſay with that Philoſo<g ref="char:EOLhyphen"/>pher, who when the Citie was plun<g ref="char:EOLhyphen"/>dered, and hee turned out naked, being asked what hee had loſt, an<g ref="char:EOLhyphen"/>ſwered, <hi>Nihil perdidi</hi>
+               <note n="b" place="margin">Sene<g ref="char:EOLhyphen"/>ca de Sap. Conſt. e. <hi>6.</hi>
+               </note>. What though the Lord takes all from thee, and gives thee more of himſelfe<note n="c" place="margin">Perdiderat omnia quae Deus dedit; ſed habuerit ipſum qui omnia dederat: manet qui de<g ref="char:EOLhyphen"/>dit, &amp; abſtulit quod dedit. De<g ref="char:EOLhyphen"/>us ſubſtraxit data, nen dato<g ref="char:EOLhyphen"/>rem, <hi>Aug. in Pſal. 66.</hi> Omnia perdidit Iohus, &amp; plenus e<g ref="char:EOLhyphen"/>rat, <hi>Aug. de diverſ. 12.</hi>
+               </note>? That man growes rich, to whom God draws nigh, and from whom the world withdrawes. Hee only hath loſt all, that hath loſt his God Now if God
+<pb facs="tcp:169458:9"/>bee thine, thy country and dwelling is thine, or elſe a better.<note place="margin">Pſal. 42.12. Pſal. 45.4.</note> It was not the Sword or Bow of our Fathers that did plant them there at firſt, but the right hand of God, and the ſame right hand of God may teach him as terrible things by replanting us. Till which time if this Manuell of Medita<g ref="char:EOLhyphen"/>tions may as a Flaggon taken from the Lords Cellar, ſtay thy fainting ſoule,<note place="margin">Cant. 2.5.</note> it ſhall be the happineſſe of the Auther, that he hath comforted others with the ſame conſolations wherewith hee was comforted.<note place="margin">1 Cor. 1.4.</note>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Yours and his Countries in the Lord,</hi> John Warner.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169458:10"/>
+            <pb n="1" facs="tcp:169458:10"/>
+            <head>Temporal Loſſes Spiritually improved.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Uch is the dege<g ref="char:EOLhyphen"/>nerate nature of ſome ſpirits, that in meane loſſes they diſcover great impati<g ref="char:EOLhyphen"/>ence: but if the loſſe of their e<g ref="char:EOLhyphen"/>ſtates befall <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, they cannot but therewith <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e themſelves al<g ref="char:EOLhyphen"/>ſo. The love of the world doth herein ſtrongly appeare, when not onely the fruition of things preſent doe raviſh mens hearts with joy; but the imagination of
+<pb n="2" facs="tcp:169458:11"/>them abſent, overwhelmes them with more ſorrow. The Mam<g ref="char:EOLhyphen"/>mon of this world is a God, and is ſerved by the men whoſe por<g ref="char:EOLhyphen"/>tion is only here in a moſt affe<g ref="char:EOLhyphen"/>ctionate obedientiall manner; for if the world and the things thereof keep neere them, they ſerve and love it; if it leave them, they follow and purſue it, with as much earneſtneſſe as <hi>Laban</hi> did his gods. It ſhould bee our care then, that when wee loſe our goods, wee may not loſe our wits; and that when they leave us, and take the wing, to purſue them with a godly hope, and mo<g ref="char:EOLhyphen"/>derate endevour, not with an im<g ref="char:EOLhyphen"/>moderate ſorrow, or deſperate behaviour.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>PHiloſophers obſerve, that the higher the Element is, the
+<pb n="3" facs="tcp:169458:11"/>purer it is;<note place="margin">Bac. nat hiſt.</note> water purer then earth, aire then water, fire purer then aire. And it is the obſerva<g ref="char:EOLhyphen"/>tion of a Naturaliſt, that by Art water may be conveyed as high as the Fountain from whence it did ariſe. O my ſoule, remember from whence thou art inſpired, from how high and holy a place; remember alſo of what a divine nature thou art made partaker; dwell not therefore on theſe earthly objects, but let the conſi<g ref="char:EOLhyphen"/>deration of thy heavenly nature, cauſe thee to contemplate on heavenly things; or if thou bu<g ref="char:EOLhyphen"/>ſieſt thy ſelfe about theſe things below, let it bee to extract ſome divine quinteſſence from them. God hath removed theſe periſh<g ref="char:EOLhyphen"/>ing things from thee, that thou mayſt ſeek for, and think of thy incorruptible inheritance. The ſoul which is confined to earthly
+<pb n="4" facs="tcp:169458:12"/>meditations, forgets whence it came, and whither it ſhould goe. A heavenly ſpirit hath its conver<g ref="char:EOLhyphen"/>ſation in heaven.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>VVE read of ſome of the wiſeſt Heathens, that caſt away all, and became volun<g ref="char:EOLhyphen"/>tarily poor. Some might impute this to pride, others to madneſſe, others to wiſdome and diſcreti<g ref="char:EOLhyphen"/>on, as if two objects were too large to buſie the minde on with profit.<note place="margin">Mat. 16 24.</note> Our Saviour alſo himſelf bids them forſake all, that would follow him; and this his precept was ſeconded by the practice of many in thoſe times. However what they did doe in effect, wee muſt doe in affection, depart with all for Chriſt.<note place="margin">Hab. 2.6.</note> That perſon <hi>who lades himſelfe with thick clay,</hi> makes himſelfe too heavie to aſ<g ref="char:EOLhyphen"/>cend
+<pb n="5" facs="tcp:169458:12"/>up to Chriſt. The Emble<g ref="char:EOLhyphen"/>matiſt deſcribes him fitly, having one hand winged for heaven, the other depreſt w<hi rend="sup">th</hi> agreat weight. As then it is dangerous to poſſeſſe all and want Chriſt; ſo it is moſt ſafe to loſe all, thereby to win Chriſt, or keep him. In this caſe then, as I am not bound to caſt a<g ref="char:EOLhyphen"/>way my eſtate; yet I wil ſuffer it either to be taken away from me as a ſnare, or offered up to Chriſt as a ſacrifice; for the further I am parted from earth, the neerer I am to heaven. The more emp<g ref="char:EOLhyphen"/>ty I am, the fitter I am for con<g ref="char:EOLhyphen"/>templation, though unfit for action.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>THough poverty and want be the portion of ſome of the godly, yet it is not the con<g ref="char:EOLhyphen"/>dition of all: ſome are not onely
+<pb n="6" facs="tcp:169458:13"/>heires of a crowne hereafter, but have alſo large pledges of Gods love in the things of this life; and that not onely to ſaciety, but to ſuperfluity. This the abundant eſtates of <hi>Abraham, Job, Jacob, Joſeph, David</hi> and <hi>Solomon,</hi> doe a<g ref="char:EOLhyphen"/>bundantly teſtifie, who were all good men in Gods eye, and great men in the world. The earth is the Lords, and the fulneſſe there<g ref="char:EOLhyphen"/>of. The Lord is their God, and thus are they made heires of the promiſes; and the promiſes are not onely of the life to come, but of this preſent. Yet ſeeing theſe things are ſubject to moth, theef, ruſt, if this were all their porti<g ref="char:EOLhyphen"/>on, they would eſteeme them<g ref="char:EOLhyphen"/>ſelves no wayes happier then o<g ref="char:EOLhyphen"/>thers. God then though he gives them this for their maintenance, hee reſerves the inheritance for them. The Lord, though he laies
+<pb n="7" facs="tcp:169458:13"/>out much for his people here, yet he lays up more for them hereaf<g ref="char:EOLhyphen"/>ter. Thus though they have much in poſſeſſion, they have more in reverſion. If then God be mine, though I am not rich both wayes, I am the latter. What I have not in feeling, I have in faith.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>THe book of the creatures is a large volume, ſuch as very few do learne throughly. Now as in ſome bookes there are many guilded and red Letters, but more black; ſo though in the creature there ſeem much beauty and glo<g ref="char:EOLhyphen"/>ry, yet the black diſmall diſcon<g ref="char:EOLhyphen"/>tents, ſorrows and vanitie that a<g ref="char:EOLhyphen"/>riſeth are more. The front of eve<g ref="char:EOLhyphen"/>ry leafe is not fuller of content, then the backfide is of vexation. <hi>Solomon</hi> though he were bleſſed with a confluence of all outward
+<pb n="8" facs="tcp:169458:14"/>things, yet his tongue nor penne could be bribed ſo as to ſpeake nothing of the evill of them. He wrote other bookes of the crea<g ref="char:EOLhyphen"/>tures vertue, varietie, glory, yet the Lord would have thoſe con<g ref="char:EOLhyphen"/>cealed, and that onely reſerved for us which ſpeaks of its vanitie and vexation, it being the fitteſt leſſon for us to learne. We ſhould all deſire to have ſome inſight in the whole volume, and the beſt School-maſter to teach us herein is affliction.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>AS the creatures glory declare much of God, ſo its vanitie declareth much to us. For when the creature becomes a vexing creature to us, it is the rod of God, and this rod is a ſpeaking rod;<note place="margin">Mic. 6.9</note> 
+                  <hi>He are yee the rod, and he that appointed it;</hi> It ſpeakes to us of
+<pb n="9" facs="tcp:169458:14"/>Gods juſtice in puniſhing of us, of his mercy in moderating the puniſhment, of his power and glo<g ref="char:EOLhyphen"/>ry in bringing us out of tentation. Every blow is a legible character of Gods hand, where ever it falls, in body, eſtate, good name; and like <hi>Jonathans</hi> arrowes, are ſent to warne and direct us what to avoyd, and what to doe. Unpro<g ref="char:EOLhyphen"/>fitable and unfit Schollers they are for the School of Chriſt, that can learne nothing out of his Croſſe; that are taken up with the joy of outward things, as <hi>Peter</hi> &amp; <hi>James</hi> at the glory of Chriſts transfigu<g ref="char:EOLhyphen"/>ration, ſaying,<note place="margin">Mat. 17.4.</note> 
+                  <hi>It is good to be here;</hi> but when the Croſſe doth come, doe either deny Chriſt with <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> or forſake him with the other Apoſtles. Happy therefore is the man whoſe eare is opened to both theſe kinds of Inſtructions. As we ought to obſerve how the crea<g ref="char:EOLhyphen"/>tures
+<pb n="10" facs="tcp:169458:15"/>declare the glory of God, ſo alſo when the Lord by them declareth our ſin, and his wrath for ſinne; then let every one that hath eares heare.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>THat God is the Author of e<g ref="char:EOLhyphen"/>very good and perfect gift, is a Tenent that none but an A<g ref="char:EOLhyphen"/>theiſt in opinion can expreſly de<g ref="char:EOLhyphen"/>ny; yet which all that are Atheiſts in practiſe doe not truly know. This appears when moſt ſacrifice to their own nets: others pro<g ref="char:EOLhyphen"/>phanely ſay with him in the Pro<g ref="char:EOLhyphen"/>phet, <hi>By my own hand have I pro<g ref="char:EOLhyphen"/>cured me this;</hi> others more blinde aſcribe all to the blinde goddeſſe <hi>Fortune,</hi> crying her up as ſtrongly as the <hi>Epheſians</hi> did their <hi>Diana.</hi> Though this be the practiſe of the children of this world, yet a childe of God knows that what
+<pb n="11" facs="tcp:169458:15"/>he hath, he hath received; he ſee<g ref="char:EOLhyphen"/>eth God in every thing; appre<g ref="char:EOLhyphen"/>hendeth God above all, receiveth all as proceeding from him, ſay<g ref="char:EOLhyphen"/>ing ſtill with <hi>Jacob,</hi>
+                  <note place="margin">Gen. 27.20.</note> 
+                  <hi>The Lord brought it unto me;</hi> and with <hi>Job, The Lord giveth;</hi> Whatſoever I have then, or ſhall receive, I will labour to ſee God in it; thus will the gift draw me neerer to the gi<g ref="char:EOLhyphen"/>ver; and the plentifull ſhowres of his favours powred downe upon me, ſhall make me more fruitfull and abundant in the work of the Lord.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>GOd the giver, hath gifts of a two-fold nature.</p>
+               <p n="1">1. Gifts of his right hand;<note place="margin">Prov. 3.16.</note> as graces here, and glory hereafter; theſe are peculiar to his people, onely the childrens meate.</p>
+               <p n="2">2. Gifts of his left hand; as ri<g ref="char:EOLhyphen"/>ches,
+<pb n="12" facs="tcp:169458:16"/>honours. All ſorts of men partake of this ſort of gifts; <hi>Eſau, Laban, Nabal, Belſhazzar,</hi> had as large a portion in them as any, Thus all things fall alike to all, neither can good or evill, love or hatred be known by them. For if there were no other diſting uiſh<g ref="char:EOLhyphen"/>ing evidence of Gods love, then theſe fading tokens, then were the men of this world, yea thoſe <hi>Ame<g ref="char:EOLhyphen"/>ricans</hi> and <hi>Indians,</hi> who abound in wealth, of all men moſt happy. They whoſe portion is onely in this life, have it larger then o<g ref="char:EOLhyphen"/>thers.; whereas the portion of Gods people is not like <hi>Benjamins</hi> meſſe, larger then their brethren, but leſſer. Yet here's their qom<g ref="char:EOLhyphen"/>fort, that what they receive from God, is extended to them by Gods right hand; whereas others receive what they have from Gods left hand. <hi>Laeva porrigere,</hi> was a<g ref="char:EOLhyphen"/>mong
+<pb n="13" facs="tcp:169458:16"/>the Latines an unwelcome kinde of giving. Whatſoever gift the Lord beſtowes upon me, if I might have my choice, it ſhould be that of his right hand; Let his right hand fall on my head, his left on others. So though my portion be not the greater, it will be the better.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>
+                  <hi>GOD is my portion,</hi> ſays <hi>Da<g ref="char:EOLhyphen"/>vid;</hi>
+                  <note place="margin">Pſa. 119.57. Deut. 32 9.</note> 
+                  <hi>Yee are my portion and inheritance,</hi> ſays God; How hap<g ref="char:EOLhyphen"/>pie and rich doth the Lord think himſelf in us, as to take us to be his inheritance? and can we think our ſelves poore, that have God to our inheritance? 'Twas the honour of the tribe of <hi>Levi,</hi> that they had no portion among their brethren, but that the Lord was their portion. Every beleeving perſon is of Gods<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1 Pet. 5.3.</note> Clergie and
+<pb n="14" facs="tcp:169458:17"/>portion; and therefore if God be his God, his lot is fallen in a faire ground, he hath a goodly heri<g ref="char:EOLhyphen"/>tage. O the humilitie of our bleſ<g ref="char:EOLhyphen"/>ſed God, that can denominate us to be his inheritance, that have nothing in us good, but what is from him! O the happineſſe of that ſoule that can truly ſay, <hi>The Lord is my portion!</hi> for that thou art Gods, doth nothing benefit God, but that God is thine, is all in all to thee. This is the onely abiding, this the abounding por<g ref="char:EOLhyphen"/>tion. If any one think not this enough, <hi>Let his portion be in this life;</hi>
+                  <note place="margin">Pſal. 17.14.</note> And then when times of lo<g ref="char:EOLhyphen"/>ſing come, it ſhall be ſaid of him, <hi>This is the man that took not God to his portion.</hi>
+               </p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>GOD being Lord over all, even of the earth and its
+<pb n="15" facs="tcp:169458:17"/>fulneſſe, hath an univerſall ſove<g ref="char:EOLhyphen"/>raigntie over all, an independent royaltie in all things; ſo that whatſoever man doth injoy, is by his diſpenſation. Now if among men, eſtates are incident to ſuch forfeits, as their Land-lords may by Law deprive them, and reen<g ref="char:EOLhyphen"/>ter; why may not the ſupreame Lord of heaven and earth deprive us of that which is his, when we break our Covenants with him, and run into ſo many forſeits and arrearages? And if in ſuch a caſe, none dare aske a Prince or Land<g ref="char:EOLhyphen"/>lord, why he doth it, ſo here nei<g ref="char:EOLhyphen"/>ther dare any one open his mouth againſt his Maker, ſeeing he may doe what he pleaſe with his own. <hi>To him that hath,</hi> that is, uſeth well what he hath, ſhall <hi>more be given, and from him that hath not,</hi> i. e. u<g ref="char:EOLhyphen"/>ſeth not, or abuſeth what he hath, <hi>ſhall it be taken away.</hi> O Lord;
+<pb n="16" facs="tcp:169458:18"/>what I have is thine by right and dominion, thine by my forfeit and ſelf-deprivation, mine onely by uſurpation, at moſt by diſpenſa<g ref="char:EOLhyphen"/>tion. I bleſſe thy mercy, for the forbearance of thy right ſo long, I bleſſe thy juſtice for depriving me of that right at laſt. <hi>The Lord giveth, and the Lord taketh away, bleſſed be the name of the Lord.</hi>
+               </p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>GOD as he is the author of all the good wee partake, ſo he hath a hand in all the evill we ſuffer. His holineſſe denies him to be a cauſe of the evill of ſinne, his juſtice forceth him to inflict the evill of puniſhment. <hi>Is there any evill in the Citie, and the Lord hath not done it?</hi> This <hi>Job</hi> knew; when he ſaith, <hi>The Lord giveth, and the Lord taketh away;</hi> not onely the <hi>Chaldeans</hi> and <hi>Sabeans,</hi>
+                  <pb n="17" facs="tcp:169458:18"/>though they were the theeves, what they did was by Gods per<g ref="char:EOLhyphen"/>miſſion. Who gave <hi>Jacob</hi> for a ſpoyle, and <hi>Iſrael</hi> to the robbers? did not the Lord? God concur<g ref="char:EOLhyphen"/>reth in every evill action, though not in the evill of the action. The ſubſtance of it may be of God, when the obliquitie is of man. God hath an over-ruling hand over all mens wills, yet thoſe wills may have contrary motions of their owne. Fooliſh men are they then, who being af<g ref="char:EOLhyphen"/>flicted, either look upon the evill, and not the cauſe, or if the cauſe, either the wrong, or more imme<g ref="char:EOLhyphen"/>diate cauſes, as misfortune, ma<g ref="char:EOLhyphen"/>lice of man, want of diſcretion. I will therefore look not ſo much on my affliction, as on my affli<g ref="char:EOLhyphen"/>cter, and that not ſubordinate, but ſupreame; ſo ſhall I finde my ſuffering to be the more ſweet,
+<pb n="18" facs="tcp:169458:19"/>as proceeding from a gracious fa<g ref="char:EOLhyphen"/>ther, whoſe hand as it caſts down will raiſe up, as it woundeth will heale. Thus in looking up to him the agent, he will look down on me the patient, and either remove the evill from me, or make mee able to beare it.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>GOd as he made man good, ſo hee made every thing good for man. Man was made uncapable of corruption, and they of alteration. If man had not fallen from God his Maker, they had not fallen from man their owner. Thus by one man ſinne, death, corruption, altera<g ref="char:EOLhyphen"/>tion came into the world. It is ſinne which ſeparateth God from man, man from man, ſoule from body, man from his goods, his goods from himſelfe. Sinne cor<g ref="char:EOLhyphen"/>rupteth
+<pb n="19" facs="tcp:169458:19"/>not onely the ſoule, but the body, not onely the body, but the earth whence he came, and the heavens whither he ſhould goe. It breedeth a moth in our garments, a worme in our provi<g ref="char:EOLhyphen"/>ſion, ruſt in our ſilver, it expoſeth all to the theeſe. It ſetteth not only God at enmity againſt man, but man with man, yea beaſt with beaſt, yea and makes one man be a beaſt, a Wolfe, a Lyon to ano<g ref="char:EOLhyphen"/>ther. So that if wee loſe the creature, it is becauſe wee have made it loſe its primitive nature. Now there's no other way to gain this permanency, either to our ſelves or others, but by righteouſ<g ref="char:EOLhyphen"/>neſſe, as this corruptibilitie came by unrighteouſneſſe. But on the earth dwelleth not this righte<g ref="char:EOLhyphen"/>ouſneſſe nor durableneſſe; but we look for a new heaven and new earth, wherein dwelleth not one<g ref="char:EOLhyphen"/>ly
+<pb n="20" facs="tcp:169458:20"/>righteouſneſſe, but perpetuitie, and never fading happineſſe.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>THe Leſſon of the creatures corruptibilitie, is that which the word of God doth ſtill di<g ref="char:EOLhyphen"/>ctate, and which this world doth daily demonſtrate. Wee have the volume of holy Writ, and the large volume of the creatures to teach us this. The Word ſays; <hi>All is vanitie;</hi> The world ſheweth wherein this vanitie lyes. Wee ſee men daily taken from their goods, and their goods from them; Wee ſee corruptions and alteration of things, and yet wee dreame of ſuch an unalterable condition in all things which may reach to eternitie. Imaginary continuance of things is in our heads, when reall changes are before our eyes. Every creature
+<pb n="21" facs="tcp:169458:20"/>groanes out this, and yet wee heare not its voyce. Wee build Caſtles in the ayre, and upon the ſandy foundation of our owne ſpeculations, promiſe to our ſelves an eſtate above the reach of ene<g ref="char:EOLhyphen"/>mies, whereas the next ſtorme that riſeth, doth not onely diſco<g ref="char:EOLhyphen"/>ver the weakneſſe, but overthrow the foundation of this imaginary fabrique. The foole in the Goſpel (well ſo called) hugg'd himſelfe with this conceit, that he had e<g ref="char:EOLhyphen"/>nough laid up for many dayes, and therefore bid his ſoule take its repoſe; whereas the next night his ſoule was taken from him. Had his ſoule not been taken, his goods might. God though he had not deſtroyed his corn in the field, yet he could have ſent de<g ref="char:EOLhyphen"/>vourers into his barns; yea, if he had ſtill brought his corne into his mouth, he could have ſent
+<pb n="22" facs="tcp:169458:21"/>leaneneſſe into his ſoule. Teach me, O Lord, to know not onely my ſelfe, but all fleſh to bee as graſſe, and all things to be vani<g ref="char:EOLhyphen"/>ty; ſo ſhall I uſe the world as if Iuſed it not; ſo ſhall I enjoy my goods, and not bee enjoyed by them. Thus the longer I poſſeſſe my riches, the more I ſhall know them, and the leſſe ſhall be not onely my affection to them, but my affiance in them.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>WEre Riches ever tokens of Gods love for good, they would afflict mans heart w<hi rend="sup">th</hi> as much ſorrow in lofing, as they doe affect it with joy in poſſeſſing. But we ſee that ſometimes God gives ſome their wealth as <hi>Ebud</hi> did the preſent to <hi>Eglm,</hi> with a dagger to deſtroy them; or as God gave Iſrael a King, in his
+<pb n="23" facs="tcp:169458:21"/>wrath; or as <hi>Saul</hi> gave <hi>David</hi> his daughter, to enſnare him. This God doth out of juſtice to ſatiate their exorbitant deſires, till fur<g ref="char:EOLhyphen"/>feit of the creature comming thereby, cauſeth ſome greater e<g ref="char:EOLhyphen"/>vill. He puts this knife in theſe mad mens hands, whereby they will deſtroy themſelves and o<g ref="char:EOLhyphen"/>thers. Of ſuch <hi>David</hi> ſayes, <hi>Their table ſhall be made a ſnare:</hi> So that if we are brought to low com<g ref="char:EOLhyphen"/>mons, we are delivered from the ſnare of the Fowler, the ſnare is broken, and wee are eſcaped. If thy wealth then proceed out of Gods love, it ſhall be as durable as comfortable: but if it be given thee out of wrath, it will either be an occaſion of miſery and vexation for the preſent, or of thy ruine at the laſt. The wealth of the ungodly is either a ſnare to entangle their ſoules, or elſe a thieſe to ſteale them away.</p>
+            </div>
+            <div n="15" type="part">
+               <pb n="24" facs="tcp:169458:22"/>
+               <head>XV.</head>
+               <p>COuld the creatures vexation be ſeparated from its ſub<g ref="char:EOLhyphen"/>ſtance, it would bee a deſirable object: but experience ſhewes that to be impoſſible. We ſee men vex and trouble themſelves to procure wealth, thinking then to be eaſed of trouble, when they are laden with ſubſtance; where<g ref="char:EOLhyphen"/>as in ſtead of their deſired con<g ref="char:EOLhyphen"/>tent, they find abundance of un<g ref="char:EOLhyphen"/>expected cares. Looke upon a worldling either ſleeping or wa<g ref="char:EOLhyphen"/>king, ſtanding or going, at home or abroad, and you ſhall find that his diſtracted countenance, his needleſſe fears, his jealous imagi<g ref="char:EOLhyphen"/>nations, his corroding cares to get more, and keep what he hath, doe plainly demonſtrate this. Now God is pleaſed there ſhould be this medley, to embitter theſe
+<pb n="25" facs="tcp:169458:22"/>dugges, to cauſe theſe prickles about theſe Roſes, to intermingle our joyes with ſorrowes, and in<g ref="char:EOLhyphen"/>terlace our commodities with diſcommodities, that we may bee weaned from them, and ſeek for ſuch treaſures above, which are not onely without mixture, but without meaſure, even at the right hand of God for evermore.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>MAn being a reaſonable creature, doth not in any thing ſhew himſelfe more unrea<g ref="char:EOLhyphen"/>ſonable then in this, to thinke that any thing in the world hath that in it which is proportiona<g ref="char:EOLhyphen"/>ble to the capacitie of his ſoule. This appeares in thoſe perſons whoſe deſires ſeeming for a while to be ſatiated with ſeverall ob<g ref="char:EOLhyphen"/>jects, ſuppoſing that this, or that thing being obtained, will termi<g ref="char:EOLhyphen"/>nate
+<pb n="26" facs="tcp:169458:23"/>their appetites, and ſettle their roving ſoules with a ſweet repoſe, as if there could be a nil <hi>ultra</hi> to ſeek for: whereas indeed in the proſecution of more, the ſoule loſeth what it hath; and thinking to gain more abun<g ref="char:EOLhyphen"/>dance, is deprived of the true uſe and comfort of what it enjoyes. For the hope of what ſuch a one may have, ſwallowes up the com<g ref="char:EOLhyphen"/>fort of what he hath: So vaſt and capacious a thing is the ſoul the ſooner ſhall the barren womo be ſatisfied, yea ſooner wil the mouth of hell be filled, then it be ſatisfied with the greateſt confluence of outward things; and therefore ſooner will the Sunne be weary, and ſtand ſtill in its courſe, then it in the proſecution of earth<g ref="char:EOLhyphen"/>ly objects. The reaſon hereof is, becauſe the world yeelds nothing proportionable to the ſoules na<g ref="char:EOLhyphen"/>ture:
+<pb n="27" facs="tcp:169458:23"/>its nature is divine, infinite, immortall; but things of this life are earthly, finite, periſhing. Now that which is earthly ſavours earthly things, and is ſatisfied with them; but that which is ſpiritual, ſavours ſpiritual things, and can bee onely ſatisfied with them. You may fill a Cheſt with money, but not with wiſdome, knowledge, grace: And ſo may the ſoul be filled with knowledge, and grace, but not with money; for the one hath dimenſions, the other none: ſo that in one the thing contained may equalize the thing containing, but not in the other. That then which ſatisfies the ſoule, is onely that which created it, redeemed it. So that after all the rovings and diſquiſi<g ref="char:EOLhyphen"/>tions of the mind, it can finde no true reſt, till it pitch on God in Chriſt. Like <hi>Noahs</hi> Dove, it be<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:169458:24"/>ſent about the earth, finding no place to light on, it muſt re<g ref="char:EOLhyphen"/>turne to the place from whence it came.</p>
+               <p>Thou, O Lord, who didſt en<g ref="char:EOLhyphen"/>due my ſoule with ſuch capacious faculties, fill them with they ſelfe for after its manifold wandring in the circle of this world, it find no adequate ſatisfactory object, but in thee its center, in whom all fulneſſe dwels, and who art not onely above all, and in all, but <hi>All in All.</hi>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>
+                  <hi>GEN.</hi> 33.19. wee read: ſtrange ſentence dropping out of <hi>Eſau's</hi> mouth; <hi>I have e<g ref="char:EOLhyphen"/>nough.</hi> Afterward, <hi>verſ.</hi> 13. <hi>Jacob</hi> is in the ſame tune, <hi>I have enough,</hi> (or as ſome tranſlations have it) <hi>I have all, i.e.</hi> both temporall and ſpirituall. Out of the fulneſſe of
+<pb n="29" facs="tcp:169458:24"/>the heart the mouth ſpeaketh; and out of the fulneſſe of pride of heart might <hi>Eſau</hi> ſay thus, in that he ſcorned to be beholding to <hi>Jacob;</hi> or elſe out of a fulneſſe of modeſty, in that he would not ſeem to receive any of his. Hee that could in an outward forme, even with teares, ſay, <hi>Haſt thou not a bleſſing for me?</hi> might reſt unſa<g ref="char:EOLhyphen"/>tisfied with temporall bleſſings. His rough hands were not onely tenacious of what he had, but as fit to receive more, hold more.<note place="margin">Lau<g ref="char:EOLhyphen"/>tent. Anat.</note> The Anatomiſts obſerve one ſpe<g ref="char:EOLhyphen"/>ciall Artery to paſſe from the heart to the tongue, to ſhew that Nature would have the tongue to be the hearts Oratour, to expreſs the ſame thing moving in the ſame motion: Yet we ſee where the heart is not right, the tongue is not uniforme, this Artery ſuf<g ref="char:EOLhyphen"/>fers a diſtortion. Many men with
+<pb n="30" facs="tcp:169458:25"/>
+                  <hi>Eſau,</hi> ſay, <hi>I have enough;</hi> but it is either becauſe they know not how to get more, or uſe more Give me, O Lord, the bleſſings of <hi>Jacob,</hi> the bleſſings of thy right hand, and then my voyce ſhall be the voyce of <hi>Jacob, I have enough;</hi> yea, <hi>I have all.</hi>
+               </p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>FOoliſh men that ſpend their labour for that w<hi rend="sup">ch</hi> ſatisfieth not, and expend their money for that which is not bread, that let looſe their thoughts, which like <hi>Noabs</hi> Raven, returne not a<g ref="char:EOLhyphen"/>gaine, but rove about after the carrion of this world! It was the complaint of <hi>Jeremiah,</hi> that they who are cloathed with skarlet, lie on the dunghill; and and how may wee complain of them who are highly deſeended, yet doe ſeeke onely things
+<pb n="31" facs="tcp:169458:25"/>below? 'Tis true that every man is placed here on the earth as a treaſurer of his own ſoule, the godly lay up a good foundation; the wicked alſo even in treaſu<g ref="char:EOLhyphen"/>ring up the world, doe treaſure up wrath and oppreſſion. How abundantly then ſoever my eſtate comes in, I will never bid my ſoul be at reſt, till it finde it in Chriſt; nor will I ever think I have much laid up for many dayes, unleſſe it be in heaven with the Ancient of dayes.</p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>
+                  <hi>L<g ref="char:V">Ʋ</g>ke</hi> 10. wee read of the re<g ref="char:EOLhyphen"/>ſpect that two ſiſters bore to Chriſt; the one to his perſon, the other to his word: <hi>Martha's</hi> care was to entertain Chriſt delicate<g ref="char:EOLhyphen"/>ly, <hi>Mary's</hi> was to heare him dili<g ref="char:EOLhyphen"/>gently. Such a gueſt as hee was, was worthy to be entertained ex<g ref="char:EOLhyphen"/>quiſitely,
+<pb n="32" facs="tcp:169458:26"/>and ſuch an Orator as he was, that <hi>ſpake as never man ſpake,</hi> was worthy to be heard at<g ref="char:EOLhyphen"/>tentively. Yet we ſee that our Sa<g ref="char:EOLhyphen"/>viour had rather bee entertained in us by his Word, then by us through our ſervice; yet how many are there as farre behinde <hi>Martha</hi> in the duty of ſerving, as ſhe was behind <hi>Mary</hi> in the duty of hearing? Make me, O Lord, to know the <hi>one thing</hi> which is needfull; ſo ſhall I not be trou<g ref="char:EOLhyphen"/>bled about <hi>many things.</hi> Thus ſhall Ibe a brother to <hi>Mary,</hi> and a ſtranger to <hi>Martha.</hi>
+               </p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>AMong the evils which <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> ſaw under the Sun, this was one,<note place="margin">Eccleſ. 5.19.</note> 
+                  <hi>A man to whom God hath given riches, wealth, honour, ſo that be wanteth nothing; yet God giveth him not a heart: and power to eate
+<pb n="33" facs="tcp:169458:26"/>thereof, but a ſtranger eateth it.</hi> A diſeaſe it is indeed, and almoſt E<g ref="char:EOLhyphen"/>pidemicall: For how many ſee we whoſe Barns are full, Fats o<g ref="char:EOLhyphen"/>verflow, yet fare courſly them<g ref="char:EOLhyphen"/>ſelves; have coſtly wardrobes, yet not power to put it on; have ſilver and gold in abundance, yet die to ſave charges? Thus the Lord makes them treaſurers for other men: hee gives them the creature, but reſerves the comfort and uſe of it for others. So that ſuch in a manner have no more benefit or comfort by their Corn and Wine, then the Barnes and Cellars that hold it; nor of their money, then the Cheſts that contain it. Thus though they have their goods, yet in <hi>Jobs</hi> words, <hi>Their good is not in their bands, i. e.</hi> the uſe and comfort is not in their power. When ever I begge for a temporall bleſ<g ref="char:EOLhyphen"/>ſing,
+<pb n="34" facs="tcp:169458:27"/>I will adde this to my pray<g ref="char:EOLhyphen"/>er, that this bleſſing may goe a<g ref="char:EOLhyphen"/>long with it, even a heart to uſe it. Thus a ſtranger ſhall not in<g ref="char:EOLhyphen"/>termeddle with my joy.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>BUt there is another evill, which is this, that as many have much, but not hearts to uſe it; ſo many have much, yet have hearts to uſe more. As evill a diſeaſe it is to have a mind excee<g ref="char:EOLhyphen"/>ding ones means, as means excee<g ref="char:EOLhyphen"/>ding ones minde. The power which many have to abuſe the creature, is as common as the want of power to uſe it. The Moraliſts ſay, that prodigalitie comes neerer the mean then co<g ref="char:EOLhyphen"/>vetouſneſſe; how ever it cannot come to the nature of a vertue. He then that hath this heart to carry him to a profuſe ſpending
+<pb n="35" facs="tcp:169458:27"/>of what he hath, is as much to be pitied, as hee that wants this heart to make uſe of what hee hath. And if either of theſe drawneere the mean, God muſt give the one a heart, and renew it in the other. It ſhall be my en<g ref="char:EOLhyphen"/>devour ſo to uſe what I have, as not to abuſe it; and ſo to apply to my ſelfe the comforts of my ſubſtance, as not to deprive my ſelfe of the ſubſtance it ſelfe. O<g ref="char:EOLhyphen"/>therwiſe I ſhall at laſt repent of having both a heart and riches: for when all is thus ſpent, the comfort vaniſheth, the guilt abi<g ref="char:EOLhyphen"/>deth.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>RIches have wings;<note place="margin">Pro. 23.</note> now what is winged will keep no con<g ref="char:EOLhyphen"/>ſtant abode, unleſſe it bee ſtrait<g ref="char:EOLhyphen"/>ned, or its wings imped; and in ſhortning the wings of riches, wee
+<pb n="36" facs="tcp:169458:28"/>ſet them flying: neither can they ſo be caged up, but at ſome time or other they will leave us, or be taken from us. Some birds being let looſe, may bee lured back a<g ref="char:EOLhyphen"/>gain, yet not all birds, nor at all times. If then my riches will once fly from mein poſſeſſion, my ſafeſt way is to flie above them in affe<g ref="char:EOLhyphen"/>ction. Thus ſhall I light upon a better object, if they light upon another ſubject.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>THis earthly globe is that dug and breaſt which the chil<g ref="char:EOLhyphen"/>dren of this world lie ſucking at, and which they will not leave ſo long as there is any ſweetneſſe in it. God therefore to wean them from it, doth with his Marah imbitter this dugge, that ſo the preſent bitterneſſe may make them forget all former ſweet<g ref="char:EOLhyphen"/>neſſe.
+<pb n="37" facs="tcp:169458:28"/>Lord, though ſince I came into this world, nothing could content me but this breaſt, nou<g ref="char:EOLhyphen"/>riſh me but its milk, quiet me but its ſweetneſſe; yet ſeeing now I ſee it imbittered by thee, make me to behave my ſelfe as a wea<g ref="char:EOLhyphen"/>ned child, cauſe me to ſuck at the breaſts of conſolation; let thoſe breaſts ſatisfie me.</p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIV.</head>
+               <p>COmmonly one affliction to Gods people, is the fore<g ref="char:EOLhyphen"/>runner of another; <hi>Job</hi> and no ſooner heard of the loſſe of his Oxen, and Aſſes, but before that ſound was out of his eares, hee heares of the loſſe of his ſheep, and after that of his ſervants, and ſonnes. The ſmaller loſſe doth uſually uſher in the greater. Thus many are the troubles of the righteous, many blowes muſt bee
+<pb n="38" facs="tcp:169458:29"/>given, before we are ſquared and made fit ſtones for the ſpirituall Temple. In this troubled Sea, wave will follow after wave, one depth call for another, till we are come to our haven. I will then after one affliction look for ano<g ref="char:EOLhyphen"/>ther, prepare for another; thus ſhall I be not onely forewarned, but forearmed: if God reſerve an<g ref="char:EOLhyphen"/>other tryall for me, he will renew my ſtrength to overcome, or my patience to beare it. My comfort is, that as my tribulations doe a<g ref="char:EOLhyphen"/>bound, my glory ſhall abound. After all theſe ſad meſſages, God will ſend me ſome good <hi>Ahimaaz,</hi> that will bring me good tidings of great joy.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>THe Prophet reproveth them that truſted in broken Ci<g ref="char:EOLhyphen"/>ſterns,<note place="margin">Ier. 2.13.</note> that would not hold wa<g ref="char:EOLhyphen"/>ter,
+<pb n="39" facs="tcp:169458:29"/>and forſooke the fountaine of living water. All the comforts of this life are waters, yea ciſtern wa<g ref="char:EOLhyphen"/>ters, and therefore not ſo freſh as others, being ſtanding, neither ſo continuing as others, being in broken ciſterns. Whatſoever I en<g ref="char:EOLhyphen"/>joy then ſhall be in God the foun<g ref="char:EOLhyphen"/>taine, and in his promiſes the ſtreames; ſo ſhall my comfort be ever ſavoury &amp; everlaſting, when that w<hi rend="sup">ch</hi> others enjoy in ciſterns, ſhall be both unſavoury and un<g ref="char:EOLhyphen"/>conſtant;<note place="margin">Iob. 13</note> For a Summer will come when ſuch waters ſhal make them aſhamed. When their bot<g ref="char:EOLhyphen"/>tles faile with <hi>Hagar,</hi> they ſhall wiſh for death, and then will the Lord diſcover unto me a foun<g ref="char:EOLhyphen"/>taine of living water.</p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>WEE ſee in Cities where ſpace of ground is pre<g ref="char:EOLhyphen"/>cious,
+<pb n="40" facs="tcp:169458:30"/>that the buildings are more high and lofty, making more bold with the ayre and things above, when they are ſcanted of earth and things beneath. This may teach ſomething, and edifie us in our ſpirituall building. When our lot falls out in a ſmall portion of land here, to ſeek for a larger in<g ref="char:EOLhyphen"/>heritance above in heaven, where is roome enough for us all, and whither wee may boldly goe. Lord ſeeing my portion is ſlen<g ref="char:EOLhyphen"/>der, my eſtate narrow, build me up ſome ſtories higher in grace and goodneſſe, that ſo the leſſe. I have in earth, the more I may have in heaven; thus ſhall I be brought the neerer to thee, and receive more from thee. Had I more ſcope here below, I ſhould not tend upwards, or mind hea<g ref="char:EOLhyphen"/>venly things.</p>
+            </div>
+            <div n="27" type="part">
+               <pb n="41" facs="tcp:169458:30"/>
+               <head>XXVII.</head>
+               <p>THe onely Sanctuary in mans extremitie, is Gods all-ſuffi<g ref="char:EOLhyphen"/>ciency.<note place="margin">Pſal. 84.11.</note> 
+                  <hi>The Lord is a Sunne, and a Sbield;</hi> a Sunne for conſolation, a Shield for protection. Now from this fulneſſe in God, all comfort and ſafety is derived to man. The Sunne enlighteneth others, the Shield defendeth others. If wee have a communion with God, we ſhall have a communication of all from God. <hi>Grace and glory will he give, yea no good thing will he withhold.</hi> Here then is our hap<g ref="char:EOLhyphen"/>pineſſe, that though we are neere the jawes of death, this Shield is neere us (the Lord being a very preſent helpe;) that though the night of adverſitie be long, yet this Sunne will ariſe; and al<g ref="char:EOLhyphen"/>though being riſen, clouds may be interpoſed, yet the Sunne keeps
+<pb n="42" facs="tcp:169458:31"/>his place, and notwithſtanding its light be eclipſed, its influence is not hindered. Though my ſins and troubles may cauſe Gods face not to ſhine upon me, yet will he then uphold me by the influence of his Spirit.</p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII.</head>
+               <p>
+                  <hi>ACquaint thy ſelfe with God, and be at peace,</hi>
+                  <note place="margin">Iob 22.21.</note> 
+                  <hi>ſo good ſhall come unto thee;</hi> All our good, pre<g ref="char:EOLhyphen"/>ſent or future, conſiſts in and is derived from our acquaintance and communion with GOD. Eſtrangedneſſe from God, makes us acquainted with many evills; for all our miſeries that befall us, ariſe from want of communion with God, or want of renewing it, and breaches of it. That now which makes us renew our ac<g ref="char:EOLhyphen"/>quaintance with him is affliction; for before <hi>David</hi> was afflicted he
+<pb n="43" facs="tcp:169458:31"/>went aſtray. The woman in the Goſpel, had ſpent all on the Phy<g ref="char:EOLhyphen"/>ſicians before ſhee came to Chriſt. When wee know not what to do, or whither to goe, then wee goe to him, our eyes are towards him. In theſe times wee ſee many that ſtood at diſtance, as not behold<g ref="char:EOLhyphen"/>ing to, or depending on God, draw neere unto him in his ordi<g ref="char:EOLhyphen"/>nances. Afflictions of themſelves drive us further form God, and make us ſeek other hiding places, but being ſanctified, they make us ſeek God early. Thus then is it good to be afflicted, when there<g ref="char:EOLhyphen"/>by wee are brought neer to God. It ſhall be my endeavour to re<g ref="char:EOLhyphen"/>new my acquaintance with God, both morning and evening, ſo good ſhall come unto me, his mercies towards me ſhall be new every morning.</p>
+            </div>
+            <div n="29" type="part">
+               <pb n="44" facs="tcp:169458:32"/>
+               <head>XXIX.</head>
+               <p>AS in theſe Diviſions the thoughts of many hearts are diſcovered; ſo alſo in the ſame heart manifold thoughts diſco<g ref="char:EOLhyphen"/>ver themſelves.<note place="margin">Pſal. 94.19.</note> 
+                  <hi>In the multitude of the thoughts of my heart,</hi> ſays <hi>David, thy comforts refreſh my ſoule.</hi> His thoughts were ſomtimes vex<g ref="char:EOLhyphen"/>ing, ſometimes dejecting and de<g ref="char:EOLhyphen"/>ſpairing; doubting, impatient, diſtracted, carefull, fearefull thoughts were often raiſed in him. As manifold thoughts may and doe ariſe from us in theſe times of trouble. Here onely is our miſery, that having <hi>Davids</hi> maladie, wee cannot apply <hi>Da<g ref="char:EOLhyphen"/>vids</hi> remedy; Depth of miſery ſtill calleth after depth, yet wee cannot draw water out of the Wells of ſalvation. Wee are more troubled with the dimenſions of
+<pb n="45" facs="tcp:169458:32"/>the enemies hatred, then wee are comforted with the height, depth, length, breadth of the love of God in Chriſt. A ſad thing it is, that Chriſtians who are called to <hi>re<g ref="char:EOLhyphen"/>joyce evermore,</hi> ſhould let looſe the reines to worldly ſorrow, ſo farre till it work death. Surely, as ex<g ref="char:EOLhyphen"/>ceſſe of ſinne provoked the Lord to caſt theſe burdens on us, ſo ex<g ref="char:EOLhyphen"/>ceſſe of ſorrow may cauſe him to continue them. As by over-ſad thoughts wee injure our ſelves, ſo we diſhonour God, diſgrace our calling, diſparage his Word. Let weeping &amp; wailing poſſeſſe them that have no God to rejoyce in. Though in the world I ſhall have tribulations, yet will I glory in them, and triumph over them in Chriſt.</p>
+            </div>
+            <div n="30" type="part">
+               <pb n="46" facs="tcp:169458:33"/>
+               <head>XXX.</head>
+               <p>WHen <hi>Hagars</hi> bottle of water was ſpent,<note place="margin">Gen. 21.</note> ſhee fell a crying, whereas there was a fountain cloſe by her, but thoſe waters that appeared from with<g ref="char:EOLhyphen"/>in her, hindered the appearance of any water without her; her weeping hindered the ſight of the fountain. The condition of her is common to many puling Chriſtians now, whoſe ſpirits do fail, being overcome with grief, when their ſtocks are ſpent, and their trades decayed. In this af<g ref="char:EOLhyphen"/>fliction of the people of God they might ſee in God a fountain to make glad the city of God; but only exceſſe of worldly ſorrow cauſeth a defect of heavenly joy. For when our eyes do thus run down with teares, the eye of faith waxeth dim, and ſo wee ſtand in
+<pb n="47" facs="tcp:169458:33"/>our own light. Why art thou then diſuieted, Oh my ſoul? though the bottle of thy eſtate be empty, yet the Lord will ei<g ref="char:EOLhyphen"/>ther fill it again, or diſcover unto thee a fountain which will al<g ref="char:EOLhyphen"/>wayes run afreſh.</p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI.</head>
+               <p>TIs an ordinary thing to ſee men under ſome temporall loſſe to hang down their heads like bulruſhes, and go mourning all the day long; and yet cannot have their ſpirits brought one degree lower for the loſs of Gods favour. Fooliſh men! that let looſe their affections on the leaſt evill, and are not ſenſible of the grea<g ref="char:EOLhyphen"/>teſt. That indeed which we love moſt to injoy, we grieve moſt for at the departure. Now this error in affection ariſeth from this er<g ref="char:EOLhyphen"/>ror in judgement, in ſuppoſing
+<pb n="48" facs="tcp:169458:34"/>that temporall things are good without Gods favour, or that Gods countenance and favour is not more then temporall things. Surely, that man knows not what God is, or his favour, that knows not how to ſorrow for the loſe of it. If God inflict a temporall loſſe upon me, it may produce a temporall moderate ſorrow; but if the Lord hide his face from me, <hi>never was any ſorrow like my ſorrow.</hi> Of all loſſes, let me not loſe the fa<g ref="char:EOLhyphen"/>vour of my God. <hi>Lord lift thou up the light of thy countenance upon me.</hi>
+               </p>
+            </div>
+            <div n="32" type="part">
+               <head>XXXII.</head>
+               <p>OUr Saviour forbids us to care for to morrow,<note place="margin">Mat. 6.34.</note> and bids us caſt our care upon him, for he careth for us. This prohi<g ref="char:EOLhyphen"/>bition, as it ſhould not make us carefull, ſo it ſhould not leave us careleſſe. The eye of the Lord
+<pb n="49" facs="tcp:169458:34"/>runs to and fro the earth, to ſhew himſelf ſtrong in the behalf of them whoſe hearts are up<g ref="char:EOLhyphen"/>right; yet is not his eye ſo upon us, as if we ſhould turn our own eyes off our ſelves, and not look to the main chance. Gods gene<g ref="char:EOLhyphen"/>rall providence over us doth not take away our providence over our ſelves. Hee that ſo caſts his burthen on the Lord, ſo as to eaſe his own ſhoulders altogether, ſhall have more infirmities then his ſpirit will beare. He that is alto<g ref="char:EOLhyphen"/>gether careleſſe of himſelf, becauſe of Gods providence over him, may be a begger at laſt. The care then of my heavenly Father as it forbids the care of diffidence in him, ſo it requires and implies a care of diligence towards my ſelf.</p>
+            </div>
+            <div n="33" type="part">
+               <pb n="50" facs="tcp:169458:35"/>
+               <head>XXXIII.</head>
+               <p>THere's none in this world but more or leſſe, hath or ſhall taſte of the cup of affliction. Some have onely a ſip at the brim, others drink more deeply of it; yet the Lord deales with his people as a wiſe Phyſitian, admi<g ref="char:EOLhyphen"/>niſtring not only according to his own pleaſure, but their ſtrength. God doth not force whole <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ups on them, if it be not for their health; not a dram or drop ſhall be more in the <hi>Doſis</hi> then his wiſ<g ref="char:EOLhyphen"/>dome ſhall direct, and their pa<g ref="char:EOLhyphen"/>tience bear. If any ſay hee never taſted hereof, I tell him 'tis a ſign there's a viall reſerved for him in the hands of God, which he muſt drinke to the bottome. O Lord, I know, that to fleſh and blood this cup is bitter, even as the wa<g ref="char:EOLhyphen"/>ters of <hi>Marah;</hi> caſt in the ſweet
+<pb n="51" facs="tcp:169458:35"/>wood of thy grace, or elſe let this cup paſſe from me.</p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIV.</head>
+               <p>
+                  <hi>LIght is ſown for the righteous,</hi>
+                  <note place="margin">Pſal. 97.11.</note> 
+                  <hi>and joy for the upright in heart,</hi> ſaies <hi>David.</hi> Now that which is ſown doth not preſently appeare, but may lie covered with clods; and a long time is required be<g ref="char:EOLhyphen"/>fore harveſt come; in the mean<g ref="char:EOLhyphen"/>while the husband-man waiteth patiently. O then though I ſee no light, yet I may expect it, for tis not caſt away but ſown, and being ſown is not buried, but co<g ref="char:EOLhyphen"/>vered; there's hope it will ſprout again. What then? though I have ſown in tears, I ſhall reap in joy; and though I have gone out weeping, I ſhall bring my ſheaves with me; though all I have be ſown, nay caſt on the waters, yet ſhall it return after many dayes:
+<pb n="52" facs="tcp:169458:36"/>I will be content with all ſorts of weather, ſo my harveſt be ſea<g ref="char:EOLhyphen"/>ſonable and fruitfull; let my heavineſſe be all the night, yet joy ſhall come in the morning; and this I need not doubt of, for though it be midnight now, ſhall I therefore conclude the Sun will never riſe, or that it is not neerer its riſing?</p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV.</head>
+               <p>
+                  <hi>WHerefore doth a living man complain,</hi>
+                  <note place="margin">Lam. 3.39, 40.</note> 
+                  <hi>a man for the pu<g ref="char:EOLhyphen"/>niſhment of his ſin?</hi> In which words the Spirit of God coucheth a three-fold argument againſt mur<g ref="char:EOLhyphen"/>muring under our ſufferings. Firſt, we are men, creatures, and what impudence is it for ſuch to com<g ref="char:EOLhyphen"/>plain againſt their Creator, who may place us in what condition he pleaſes? Secondly, we are ſin<g ref="char:EOLhyphen"/>ners, ſo that what wee ſuffer, is
+<pb n="53" facs="tcp:169458:36"/>our demerit and wages, and what madneſſe is it to accuſe the juſt Judge of Heaven and Earth with injuſtice? Thirdly, we are living men, and therefore God hath pu<g ref="char:EOLhyphen"/>niſhed us leſſe then other ſinners, as wee are on this ſide the grave and hell, and what unthankful<g ref="char:EOLhyphen"/>neſſe is it to repine againſt that hand that hath puniſhed us in mercy? Theſe reaſons well ap<g ref="char:EOLhyphen"/>plyed, may ſtop the mouth of any murmurer: for as thou art a man, God hath power over thee as a Potter over his veſſel, to make thee for honour or diſhonour. As thou art a ſinner, tis Gods mercy thou art not conſumed; for ſin being finiſhed, bringeth forth death. As thou art yet alive, ſo praiſe the Lord, and murmure not againſt him, who might as juſtly have turned thee into hell, as he hath turned thee out of thy
+<pb n="54" facs="tcp:169458:37"/>houſe, and might have deprived thee of thy life, as hee hath of thy livelihood.</p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI.</head>
+               <p>
+                  <hi>VVHy art thou caſt downe, O my ſoule, and why art thou diſquieted within mee? Still truſt in God.</hi> Here <hi>David</hi> reproves and directs himſelfe. The ſpirit of a man is a tender part, and yet a ſtrong part. As there is nothing more ſenſible, and apt to be caſt down, ſo nothing is more ſtrong, being upheld by divine power. <hi>For the ſpirit of a man will ſuſtaine its infirmities, but a wounded ſpi<g ref="char:EOLhyphen"/>rit who can beare?</hi> Extremities and preſſures may for a while deject &amp; diſquiet it, but falth will raiſe it up, and quiet it. So much unbe<g ref="char:EOLhyphen"/>liefe as is in it, ſo much weakneſs, and ſo much faith as is in it, ſo much boldneſſe. <hi>Why are yee fear<g ref="char:EOLhyphen"/>full,
+<pb n="55" facs="tcp:169458:37"/>Oyee of little faith,</hi> ſays our Saviour: there wee ſee the exceſſe of feare aroſe from the defect of faith. So farre as my heart is e<g ref="char:EOLhyphen"/>vill, it is unbelieving, and as farre as 'tis unbelieving, it departs from God, and as farre as it departs from God, it departs from true peace and comfort. To prevent this, <hi>Davids</hi> own counſell muſt be mine; <hi>Still truſt in God.</hi> Di<g ref="char:EOLhyphen"/>ſtruſt in God is the cauſe of all diſquietneſſe in our ſelves.</p>
+            </div>
+            <div n="37" type="part">
+               <head>XXXVII.</head>
+               <p>
+                  <hi>IN the world yee ſhall have tribu<g ref="char:EOLhyphen"/>lation,</hi>
+                  <note place="margin">Ioh. 16.33.</note> 
+                  <hi>but be of good comfort, I have overcome the world,</hi> ſaith Chriſt. The world as it is a Chri<g ref="char:EOLhyphen"/>ſtians priſon and tormentor, ſo it is alſo his captive. Yet notwith<g ref="char:EOLhyphen"/>ſtanding the world be overcome, it oppoſeth, though it be crucifi<g ref="char:EOLhyphen"/>ed, it ſtrugleth. The world is the
+<pb n="56" facs="tcp:169458:38"/>way, and therefore may be foule as well as faire. We are ſtrangers here, and therefore are ſpectacles to the men of this world, the ob<g ref="char:EOLhyphen"/>jects not onely of their admirati<g ref="char:EOLhyphen"/>on, but indignation. That dogge which fawnes on the inmate, may not only bark at, but bite a ſtran<g ref="char:EOLhyphen"/>ger. Our happineſſe is that as we ſuffer here, we conquer here, yea we conquer whiles we ſuffer, and doe overcome whiles we are over<g ref="char:EOLhyphen"/>come. <hi>Yea wee are more then con<g ref="char:EOLhyphen"/>querers through him that loved us; and this is our victory that over<g ref="char:EOLhyphen"/>cometh the world, even our faith.</hi>
+               </p>
+            </div>
+            <div n="38" type="part">
+               <head>XXXVIII.</head>
+               <p>VVHen beleevers are pen<g ref="char:EOLhyphen"/>ſive and ſad, by reaſon of outward croſſes, they muſt ex<g ref="char:EOLhyphen"/>amine and try the object of their faith, and the grounds of their beleeving; For uſually ſorrow is
+<pb n="57" facs="tcp:169458:38"/>there exceſſive, where faith is lit<g ref="char:EOLhyphen"/>tle, and too much ſorrow for out<g ref="char:EOLhyphen"/>ward croſſes doth commonly ar<g ref="char:EOLhyphen"/>gue too much confidence in out<g ref="char:EOLhyphen"/>ward goods. Above all perſons, a true beleever may alwayes re<g ref="char:EOLhyphen"/>joyce, and then moſt, when it goes worſt with him. For his God is the God of conſolation; the fruit of Gods Spirit is joy unſpeakable and glorious; it is one of Chriſts offices to comfort his people; The Ordinances yeeld ſtrong conſo<g ref="char:EOLhyphen"/>lation; by the communion of Saints, their joy is made more full; and the fulneſſe of joy, they are aſſured of hereafter. Tis Sa<g ref="char:EOLhyphen"/>tan therefore onely that makes theſe conſolations of the Almigh<g ref="char:EOLhyphen"/>ty ſeeme light; for the Devill in the overthrowing the outward e<g ref="char:EOLhyphen"/>ſtate, aymes chiefly to impaire the inward. In the ſpoyling of <hi>Jobs</hi> goods, it was his endeavour to
+<pb n="58" facs="tcp:169458:39"/>rob him of his comfort, and make him curſe God.</p>
+            </div>
+            <div n="39" type="part">
+               <head>XXXIX.</head>
+               <p>IT is obſervable that <hi>Paul</hi> though he had as much as any to glo<g ref="char:EOLhyphen"/>ry of, yet he gloried in nothing ſo much,<note place="margin">2 Cor. 12.5.</note> as in his infirmities, re<g ref="char:EOLhyphen"/>proaches, neceſſities, diſtreſſes for Chriſts ſake, in his bonds and chaines for Jeſus. Surely there was ſomething in thoſe bonds, that made them ſo precious, it was the name of Jeſus, which like a pre<g ref="char:EOLhyphen"/>cious Jewel fixed in theſe bonds, that did ſo endeare them to him. Yet wee ſee what was <hi>Pauls</hi> glory is others ſhame, when ſome glory in their wealth, others in their power, others in their wiſedome, none glory in the Lord, ſuch glo<g ref="char:EOLhyphen"/>ry in their ſhame. But how much glory then have the perſecutors conferred on Gods people? Sure<g ref="char:EOLhyphen"/>ly
+<pb n="59" facs="tcp:169458:39"/>did they know that to be ho<g ref="char:EOLhyphen"/>nour which they confer on them as ſhame, they would diſpoſe of it elſwhere. Why art thou then aſhamed, O my ſoule, of that which others did glory? Know that to theſe bonds is a crowne annexed, and if with the Apoſtle thou art layd in them, there is laid up a crown of righteouſneſs, which the righteous Judge hath not onely given <hi>Paul,</hi> but will give to thee, and to every one that loves his appearing.<note place="margin">2 Tim. 4.8.</note>
+               </p>
+            </div>
+            <div n="40" type="part">
+               <head>XL.</head>
+               <p>A Sin poverty 'tis hard to keep under our nature, and bri<g ref="char:EOLhyphen"/>dle our mouths from expreſſions of diſcontent and murmuring; ſo it is as difficult to reſtrain them from glorying &amp; boaſting, when riches doe increaſe. See this in good <hi>Hezekiah,</hi>
+                  <note place="margin">Iſa 39.1</note> who was not hap<g ref="char:EOLhyphen"/>pie
+<pb n="60" facs="tcp:169458:40"/>enough to enjoy his gold, ſil<g ref="char:EOLhyphen"/>ver, ſpices, oyntments, unleſſe alſo he might ſhew it to the ſervants of <hi>Merodachbaladan.</hi> So vaine are our natures, that we never know we have enough, till others know it ſo alſo. Such hath alſo been the abundance of many among us in times of peace, that their wealth &amp; delectable things, have ſerved onely to ſatiate their own eyes with reviewing, and others with viewing. Vaine men would not onely be rich, but be eſteemed ſo. Now as in a <hi>Plethora</hi> of body, ſo of the ſoule, ſomething muſt be taken from the whole, left the whole periſh. <hi>Hezekiahs</hi> goods are ſhewed to the <hi>Babyloniſh Meſ<g ref="char:EOLhyphen"/>ſengers,</hi> and therefore God threa<g ref="char:EOLhyphen"/>tens, that they ſhall be taken a<g ref="char:EOLhyphen"/>way by the <hi>Babylonians.</hi> When we cannot be content with much without ſhewing it to others,
+<pb n="61" facs="tcp:169458:40"/>we muſt be content with leſſe for ſhewing it to others. 'Tis not one<g ref="char:EOLhyphen"/>ly juſtice, but wiſdome in God to have that ſtollen from us, which otherwiſe would ſteale our hearts from God. If therefore the Lord hath dealt with thee as with <hi>He<g ref="char:EOLhyphen"/>zekiah,</hi> get his patience, ſaying, <hi>Good is the Word of the Lord.</hi> Know that that is of moſt worth, which is not worth ſhewing. We cannot ſhew our fulneſſe to others, with<g ref="char:EOLhyphen"/>out diſcovering our emptineſſe to God. Let not him that is rich, glory in his riches, for his glory<g ref="char:EOLhyphen"/>ing in them, may be the onely meanes to deprive him of them.</p>
+            </div>
+            <div n="41" type="part">
+               <head>XLI.</head>
+               <p>VVHen the pride of <hi>Iſrael</hi> did teſtifie againſt it ſelfe,<note place="margin">Iſa. 3.</note> the Lord tooke from her her delectable &amp; pleaſant things. Of all ſinnes God doth and will
+<pb n="62" facs="tcp:169458:41"/>reſiſt pride, for that doth moſt re<g ref="char:EOLhyphen"/>ſiſt him. That being followed will depoſe him, and therefore he will follow to depoſe that. The mo<g ref="char:EOLhyphen"/>ther of pride is uſually plentie, now this daughter would in time devoure the mother, did not God bring her downe. As <hi>Iſraels,</hi> ſo <hi>Englands</hi> pride, doth teſtifie a<g ref="char:EOLhyphen"/>gainſt her; and therefore as he dealt with the daughters of <hi>Iſrael,</hi> he will deale with the daughters of <hi>England.</hi> Becauſe the daugh<g ref="char:EOLhyphen"/>ters of <hi>Sion</hi> are haughtie, there<g ref="char:EOLhyphen"/>fore he will ſmite with a ſcab the crown of their head; he will take away their bravery and tinkling ornaments. Thus ſhall our ſor<g ref="char:EOLhyphen"/>row for the loſſe be more, then the comfort in the injoying. That which was the pride of many, is now become their ſhame. Thoſe things which in poſſeſſing yeeld moſt comfort, at parting pro<g ref="char:EOLhyphen"/>duce
+<pb n="63" facs="tcp:169458:41"/>moſt ſorrow. Falſt objects of love, yeeld falſe comforts and true fears.</p>
+            </div>
+            <div n="42" type="part">
+               <head>XLII.</head>
+               <p>AS nature is content with lit<g ref="char:EOLhyphen"/>tle for food, ſo would it be with as little for rayment. But the exceſſe in one is as great as the ex<g ref="char:EOLhyphen"/>ceſſe in the other. <hi>Dives</hi> did not onely fare ſumptuouſly every day, but was alſo clothed in purple and fine linnen. Leaves and skins were our firſt parents array; ray<g ref="char:EOLhyphen"/>ment was to them a ſhame, though it be to us a glory. Man had not knowne himſelfe naked, had he not ſinned. Garments then are onely a covert for that which ſin laid open. If clothing therefore followed mans miſery, I ſee not how its excellency ſhould truly further mans happineſſe. Such a<g ref="char:EOLhyphen"/>dorned bodies may have naked
+<pb n="64" facs="tcp:169458:42"/>ſoules. If ever I am ambitious of cloathing, it ſhall be of thoſe gar<g ref="char:EOLhyphen"/>ments of ſalvation, which will alone make me glorious within. I ſcorn ſuch array, wherein I ſhall ſeem admirable to men, and abo<g ref="char:EOLhyphen"/>minable to my God.</p>
+            </div>
+            <div n="43" type="part">
+               <head>XLIII.</head>
+               <p>
+                  <hi>TO all things there is an appoin<g ref="char:EOLhyphen"/>ted time,</hi>
+                  <note place="margin">Eccleſ. 3.6.8.</note> ſays <hi>Solomon.</hi> A time to loſe, and a time to keep; a time for warre, and a time for peace. God is the Lord of times and ſea<g ref="char:EOLhyphen"/>ſons, and theſe times through his diſpoſing, have a ſucceſſive inter<g ref="char:EOLhyphen"/>courſe in this life. Yet ſpiritually all times, are one to a true belee<g ref="char:EOLhyphen"/>ver; for in times of warre he finds peace; when the <hi>Aſſyrian</hi> is in the land, Chriſt is their peace; and in times of loſing, they are gainers; for as the outward man, like the houſe of <hi>Saul</hi> decreaſeth, the in<g ref="char:EOLhyphen"/>ner
+<pb n="65" facs="tcp:169458:42"/>man, like that of <hi>David,</hi> wax<g ref="char:EOLhyphen"/>eth greater. But then in the next life, when time ſhall be no more, there will bee no<g ref="char:EOLhyphen"/>thing but gaining, and kee<g ref="char:EOLhyphen"/>ping, no loſing nor warres and diſcord there, but peace and con<g ref="char:EOLhyphen"/>cord.</p>
+            </div>
+            <div n="44" type="part">
+               <head>XLIV.</head>
+               <p>IN the hiſtory of <hi>Joſeph</hi> we read,<note place="margin">Gen. 45.</note> that hee ſent Waggons and proviſion for his father <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> and his family; having procu<g ref="char:EOLhyphen"/>red and reſerved the land of <hi>Go<g ref="char:EOLhyphen"/>ſhen</hi> for him till his comming. Now leſt <hi>Jacob</hi> might hardly be perſwaded to leave behinde him his houſhould goods, the King of Aegypt bids him not regard that ſtuffe, for the Land of Aegypt was before him: <hi>Joſeph</hi> was a type of Chriſt, as well in his low eſtate when he was ſold, as in his
+<pb n="66" facs="tcp:169458:43"/>high eſtate when hee was able to give: Now Chriſt hath invited me to forſake all, and come un<g ref="char:EOLhyphen"/>to him, having provided and promiſed me a <hi>Goſhen,</hi> a manſion; hee alſo will ſend me enough to maintain me by the way. Why then ſhould I regard ſuch ſtuffe as will cumber me by the way, and be no comfort to me at the end? I will be content with or<g ref="char:EOLhyphen"/>dinary proviſion in the way, when I am ſure to finde extraor<g ref="char:EOLhyphen"/>dinary entertainment at home.</p>
+            </div>
+            <div n="45" type="part">
+               <head>XLV.</head>
+               <p>THe Church is deſcribed, <hi>Rev.</hi> 12. to bee clothed with the Sunne, and to have the Moon un<g ref="char:EOLhyphen"/>der her feet. By the Sun is meant Chriſt, by the Moon all earthly things, by being under feet, notes ſubjection, ſhame, diſeſteeme. Thoſe new converts therefore in
+<pb n="67" facs="tcp:169458:43"/>the <hi>Acts,</hi> did not caſt their mony into the Apoſtles laps, or put it into their hands, but threw it down at their feet, as ſo much dung, fitter for trampling on, then handling. But as the Church doth ſo, the wicked doe the con<g ref="char:EOLhyphen"/>trary, putting Chriſt the Sunne under feet, and the Moon on their heads. Though for the pre<g ref="char:EOLhyphen"/>ſent uſe I may have the Moon in my hands, yet in oppoſition to the Sun, it ſhall be at my feet. I will eſteeme all theſe ſublunary things, as loſſe for Chriſt: For all things are ſo farre under us, as we are above our ſelves. He that is clothed after this womans fa<g ref="char:EOLhyphen"/>ſhion, ſhall ſurpaſſe others as farre as the Sunne doth the Moone in glory.</p>
+            </div>
+            <div n="46" type="part">
+               <pb n="68" facs="tcp:169458:44"/>
+               <head>XLVI.</head>
+               <p>VVHere onely temporall things are enjoyed by a man, that man is in danger of being enjoyed by them; ſuch ob<g ref="char:EOLhyphen"/>jects are likely to engroſs his affe<g ref="char:EOLhyphen"/>ctions and deſires. But when by loſſes a divorce is made from the firſt love, another is ſought for. The heart will more eaſily bee brought to affect a more abiding object. Proſperity dilates the affections, and makes a man loſe himſelfe in the creature; but ad<g ref="char:EOLhyphen"/>verſity unites and gathers in all the powers of the ſoule, and ſettles them on God more fer<g ref="char:EOLhyphen"/>vently and laſtingly. Either we muſt leave earthly things, or they leave us, before we affect or poſſeſſe ſpirituall. The children of Iſrael had ſpent their Gar<g ref="char:EOLhyphen"/>lick and Onions before they ta<g ref="char:EOLhyphen"/>ſted any Manna.</p>
+            </div>
+            <div n="47" type="part">
+               <pb n="69" facs="tcp:169458:44"/>
+               <head>XLVII.</head>
+               <p>
+                  <hi>ALL things are yours,</hi>
+                  <note place="margin">1 Cor. 3.21.</note> ſaith the Apoſtle, all things pre<g ref="char:EOLhyphen"/>ſent and and to come: yea, ha<g ref="char:EOLhyphen"/>ving nothing to ſee, they poſſeſſe all things by faith. Beleevers have a right to earthly things,<note place="margin">Iusad rem, non in re. A<g ref="char:EOLhyphen"/>quin.</note> though not in them; but they have a right to and in heavenly things. All things then are theirs, as well what they want, as what they enjoy. Yet ſeeing in this life a Chriſtian is in his nonage, hee hath not actuall poſſeſſion of all that he hath title unto: However he ſhall not want what is requi<g ref="char:EOLhyphen"/>red to maintain him; hee ſhall have comforts, yea and afflictions and wants, ſo as to further him in the way. For ſanctified af<g ref="char:EOLhyphen"/>flictions are not the leaſt to<g ref="char:EOLhyphen"/>kens of Gods love, or of a godly mans poſſeſſion here.</p>
+            </div>
+            <div n="48" type="part">
+               <pb n="70" facs="tcp:169458:45"/>
+               <head>XLVIII.</head>
+               <p>THe ſumme of all promiſes is compriſed in this,<note place="margin">Heb. 13.</note> 
+                  <hi>I will never leave thee nor forſake thee.</hi> Parents, friends, lands, goods, may leave and forſake us, or we may leave and forſake them; but God nei<g ref="char:EOLhyphen"/>ther will nor can leave us. <hi>How can I give thee up, O Iſrael?</hi> ſayes God. Now God is all in all. <hi>Am not I better to thee then ten ſonnes?</hi> ſaid <hi>Elkanah</hi> to <hi>Hannah.</hi> So may God ſay, Am not I better to thee then many goods, many friends? They may leave thee, I will not. God may for a while ſeeme to leave us; but 'tis onely as a pa<g ref="char:EOLhyphen"/>rent doth the child, to try it how 'twill goe or ſtand by it ſelf: nay, when his hand is off them, hee guides them with his eye. Gods children ſtand him in as much, coſt him as deare, as any
+<pb n="71" facs="tcp:169458:45"/>mothers child, and yet a mother may forget her ſucking child, yet he Lord cannot forget his. Therefore let the world, and all in the world, leave me &amp; forſake me, yet I will not be caſt down, if God ſay but this to me, <hi>I will never leave thee nor forſake thee.</hi>
+               </p>
+            </div>
+            <div n="49" type="part">
+               <head>XLIX.</head>
+               <p>
+                  <hi>GEt thee out of thy Countrey,</hi>
+                  <note place="margin">Gen. 12.1.</note> 
+                  <hi>and from thy fathers houſe, unto a land that I ſhall ſhew thee,</hi> ſayes God to <hi>Abraham.</hi> A ſtrange command, fit onely for him who was the father of the faithfull. Againſt this command firſt naturall affection might plead, not to relinquiſh his kin<g ref="char:EOLhyphen"/>dred and fathers houſe; then common reaſon might plead for his right which he had in his na<g ref="char:EOLhyphen"/>tive countrey, and to part with a certainty for an uncertainty:
+<pb n="72" facs="tcp:169458:46"/>yet this and all that could bee ſaid by <hi>Abraham,</hi> was ſilenced by <hi>Abrahams</hi> faith; hee makes no put-offs, he reaſons not with fleſh and blood, he craves not time, he needs not an Angell to haſten him, as <hi>Lot</hi> did out of <hi>Sodome;</hi> but away he goes: yet 'tis a queſtion what <hi>Abraham</hi> would have done if he had not had a promiſe gi<g ref="char:EOLhyphen"/>ven him as large as his com<g ref="char:EOLhyphen"/>mand. For the moſt part, the obedience of the beſt is mercena<g ref="char:EOLhyphen"/>ry, we have an eye to the recom<g ref="char:EOLhyphen"/>pence of reward. What God did command and promiſe <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the ſame doth Chriſt com<g ref="char:EOLhyphen"/>mand and promiſe to all that follow him, <hi>viz.</hi> that they for<g ref="char:EOLhyphen"/>ſake all, and then his promiſe is, that <hi>whoſoever forſaketh father, mo<g ref="char:EOLhyphen"/>ther, ſiſter, brother, lands, goods, for my Name ſake, bee ſhall receive an handred fold:</hi> not eight or ten
+<pb n="73" facs="tcp:169458:46"/>in the hundred, but an hundred for one. Lord, how grievous ſo<g ref="char:EOLhyphen"/>ever thy command be to me, how contrary to fleſh and blood, I will not diſpute, but obey, and o<g ref="char:EOLhyphen"/>bey becauſe thou commandeſt, I will bleeve becauſe thou promi<g ref="char:EOLhyphen"/>ſeſt. Thus if I have <hi>Abrahams</hi> faith, I muſt have <hi>Abrahams</hi> obe<g ref="char:EOLhyphen"/>dience, and ſhall have <hi>Abrahams</hi> reward; thou wilt be unto me, as thou waſt unto <hi>Abraham, an ex<g ref="char:EOLhyphen"/>ceeding great reward.</hi>
+               </p>
+            </div>
+            <div n="50" type="part">
+               <head>L.</head>
+               <p>AFfliction is Gods furnance, whereby he doth, as twere with fire, purifie his people, cal<g ref="char:EOLhyphen"/>led therefore the <hi>fiery triall.</hi> Now as the droſſe and corruption is, ſo doth God heat his furnace. The Lord is willing to doe away theſe ſpots by more gentle means, by water; but they are ſo
+<pb n="74" facs="tcp:169458:47"/>grounded in us, that they cannot bee done out but by fire. In the younger dayes of the world, ſin did abound, and then the Lord took it away be water: but as the world growes older, it growes worſer, and is more abundant in ſinne, and therefore 'twill want fire to doe it away. Now though for the preſent this triall be grie<g ref="char:EOLhyphen"/>vous, yet the iſſue is the peaceable fruit of righteouſneſſe. Though we are put into the fire by the ſonnes of men, yet the Sonne of God abides with us in it, as hee did with the three children, God will either abate or ſuſpend the power of the fire, or elſe en<g ref="char:EOLhyphen"/>creaſe our patience; ſo ſhall wee come out with more glory, and leſſe corruption; this being all the fruit, to take away all the droſſe. Lord, thou haſt kindled a fire among us, which among o<g ref="char:EOLhyphen"/>thers
+<pb n="75" facs="tcp:169458:47"/>hath conſumed my eſtate; my comfort is, that though by reaſon thereof, I am left the poo<g ref="char:EOLhyphen"/>rer, yet I ſhall be found the purer.</p>
+            </div>
+            <div n="51" type="part">
+               <head>LI.</head>
+               <p>THe Apoſtle would not have us to think ſtrange of the fie<g ref="char:EOLhyphen"/>ry triall,<note place="margin">1 Pet. 4.12.</note> 
+                  <hi>i.e.</hi> as if it were a ſtrange thing, and unuſuall, ſeldome ſeen or heard of: However the thoughts of moſt are otherwiſe of it, when they murmure and ſay, Never were the times ſo bad, never ſuch a time of loſing. Thus they who are afflicted of God, become ſo many ſpectacles to o<g ref="char:EOLhyphen"/>thers, as if they were ſo many monſters. But grant we all this, that theſe trials are ſtrange, yet the Lord is juſt, who therefore ſends them, becauſe he findes in us as ſtrange corruptions, as ſtrange faſhions, ſtrange ſwear<g ref="char:EOLhyphen"/>ing
+<pb n="76" facs="tcp:169458:48"/>haunting after the ſtrange woman. I will think it ſtrange then, if no ſtrange judgment follow, when ſinne is more then ordinary.</p>
+            </div>
+            <div n="52" type="part">
+               <head>LII.</head>
+               <p>IT is uſuall with men to com<g ref="char:EOLhyphen"/>plain of the times badneſſe, whereas the times might as juſtly complain of their badneſſe. For as many are made worſe by the times, ſo the times are made worſe by many. If ever there<g ref="char:EOLhyphen"/>fore we looke to ſee better times, we muſt looke to be better per<g ref="char:EOLhyphen"/>ſons. God muſt firſt mend us, and then the times will mend them<g ref="char:EOLhyphen"/>ſelves.</p>
+            </div>
+            <div n="53" type="part">
+               <head>LIII.</head>
+               <p>
+                  <hi>FEare not,</hi>
+                  <note place="margin">Iſai. 41.14.</note> 
+                  <hi>O worm Jacob,</hi> ſayes God, <hi>though thou walkeſt through the fire, it ſhall not burne
+<pb n="77" facs="tcp:169458:48"/>thee, and through the water, it ſhall not overwhelme thee, for I am with thee.</hi> Gods preſence ſanctifies and ſweetens any eſtate. What makes heaven but the preſence of God? And what makes hell but the ab<g ref="char:EOLhyphen"/>ſence of God? Let God be pre<g ref="char:EOLhyphen"/>ſent in any condition, and it ſhall be full of comfort, though it bee full of trouble; and uſually God is more preſent with his in ad<g ref="char:EOLhyphen"/>verſity then in proſperity. It is not affliction, but ſinne that ſe<g ref="char:EOLhyphen"/>parates God from us. It ſhould be our care then to ſeek for his preſence in troubles, comfort our ſelves in it in troubles, behave our ſelves ſo as he may not with<g ref="char:EOLhyphen"/>draw it; for as <hi>David</hi> having Gods preſence, feared nothing, though walking in the valley of the ſhadow of death; yet when the Lord hid his face, hee was troubled.</p>
+            </div>
+            <div n="54" type="part">
+               <pb n="78" facs="tcp:169458:49"/>
+               <head>LIV.</head>
+               <p>VVHen we ſee ſome eſcape ſcotfree from the over<g ref="char:EOLhyphen"/>flowing ſcourge, and ſuffer no loſſes through neutrality or ma<g ref="char:EOLhyphen"/>lignancy, ſome there be that en<g ref="char:EOLhyphen"/>vie their happineſſe;<note place="margin">Hoſ. 4.14.</note> but when we read that <hi>the Lord chaſtiſeth every ſonne be receiveth, and loveth,</hi> and ſayes, being angry, <hi>I will not puniſh your daughters,</hi> they ſhould rather be the objects of our pity, then of our envie. It is the grea<g ref="char:EOLhyphen"/>teſt ſigne of Gods anger, not to ſeem angry; and the greateſt puniſhment to goe unpuniſhed. In affliction this is all the fruit, to take away the droſſe; and where there is nothing but droſſe, who will be at the charge of refining? Hee then that in publick ſuffe<g ref="char:EOLhyphen"/>rings undergoes nothing here, is likely to ſuffer moſt hereafter,
+<pb n="79" facs="tcp:169458:49"/>being reſerved to that great day. Unhappy children, though con<g ref="char:EOLhyphen"/>nived at for a while, are paid for all at laſt. It ſhall bee my happi<g ref="char:EOLhyphen"/>neſſe to ſuffer affliction with them here, with whom I ſhall reigne for ever hereafter. Better it is to bee a child under wrath, then a chhild of wrath.</p>
+            </div>
+            <div n="55" type="part">
+               <head>LV.</head>
+               <p>THe Lord doth commonly pu<g ref="char:EOLhyphen"/>niſh ſinne in its owne kind, ſo that in the judgment wee may read the fault. Thus <hi>Adonize<g ref="char:EOLhyphen"/>dechs</hi> cruelty was rewarded with the like cruelty. The old Law was, <hi>an eye for an eye, a tooth for a tooth;</hi> and there was a thumb for a thoumb, a toe for a toe. Thus <hi>Pharaohs</hi> bloody intent turned the rivers into blood. <hi>Davids</hi> a<g ref="char:EOLhyphen"/>dultery in his neighbours bed, kindled the ſame fire in his own.
+<pb n="80" facs="tcp:169458:50"/>
+                  <hi>Dives</hi> his luxury brought on him penury. Sometimes alſo abuſe of good things is puniſhed with the want of them; abuſe of liealth with ſickneſſe, of peace with warre, of riches with po<g ref="char:EOLhyphen"/>verty. Thou, O Lord, art juſt in depriving me of my goods, ſure<g ref="char:EOLhyphen"/>ly I did affect them too much, or not uſe them well, or truſt in them too much. Deſerved diſ<g ref="char:EOLhyphen"/>appointment is uſually the fruit of preſumptuous confidence. It is Gods will and our wiſdome to learn to ſpell our ſinnes out of his judgements.</p>
+            </div>
+            <div n="56" type="part">
+               <head>LVI.</head>
+               <p>IT is uſuall with men to com<g ref="char:EOLhyphen"/>plain of the ſuffering, when they doe not of the ſinne: For when Nature openeth the mouth for the former, Satan ſtoppes it for the latter. Now as quickneſſe
+<pb n="81" facs="tcp:169458:50"/>of the fleſh is the cauſe of the one, ſo deadneſſe of ſpirit is the cauſe of the other. For when the eye is opened to ſee ſinne, the ſpirit prſſed with the weight of it, the mouth will open to complaine againſt it. See it in a clock, which if it have its juſt weight, ſets every wheele in its motion, and makes it ſound: ſo let ſinne have its juſt weight and preſſure on the ſoule, and it will ſet every faculty of the ſoule, and part of the body on work, and will make the tongue cry aloud againſt it, though for<g ref="char:EOLhyphen"/>merly ſilent. 'Tis true that extre<g ref="char:EOLhyphen"/>mity of pain makes wicked men cry out againſt ſinne: <hi>I and my people have done wickedly,</hi> ſayes <hi>Pharaoh.</hi> The rack will open any mans mouth: but in the godly this confeſſion is not extorted, but free; <hi>I have ſinned,</hi> ſaith <hi>David, &amp; done this wickedneſſe in thy ſight.</hi>
+                  <pb n="82" facs="tcp:169458:51"/>I will therefore not ſo much ex<g ref="char:EOLhyphen"/>claim againſt my ſuffering as a<g ref="char:EOLhyphen"/>gainſt my ſinne; ſo when I have condemned my ſelf for the fault, I ſhall through mercie be acquit<g ref="char:EOLhyphen"/>ted from the puniſhment.</p>
+            </div>
+            <div n="57" type="part">
+               <head>LVII.</head>
+               <p>VVHen we ſee men fare deliciouſly every day, there's no reaſon why we ſhould repine at their fading happineſſe, having their portion onely in this life, and being fatted againſt the day of ſlaughter. Greene hearbs with contentment (ſaith the wiſeſt) is better then a ſtalled oxe with debate. Content is that which ſweetneth and ſaw<g ref="char:EOLhyphen"/>ceth the plaineſt fare. When I look upon my own deſervings, what ſinne hath deprived me of, and alſo looke to what I have through grace in the promiſe, I
+<pb n="83" facs="tcp:169458:51"/>need not murmure. The place where I am, is a ſtrange coun<g ref="char:EOLhyphen"/>trey, and ſtrangers cannot chuſe their diet. As long as I am from my fathers houſe, I may be glad with huskes; but when I come unto him, the fatted Calfe ſhall be provided for me, there ſhall I be ſatisfied as with marrow and fatneſſe.</p>
+            </div>
+            <div n="58" type="part">
+               <head>LVIII.</head>
+               <p>THe tune of the world is, <hi>What newes? What newes?</hi> where<g ref="char:EOLhyphen"/>as if we call to mind the dayes of old, wee ſhall finde nothing new. What befalls the Church now in generall, or any one in particular, the primitive times, and our predeceſſors have par<g ref="char:EOLhyphen"/>taken of. As bad warres, and ru<g ref="char:EOLhyphen"/>mors of warres, as great ſpoy<g ref="char:EOLhyphen"/>ling, as many loſſes and croſſes as ever be now. Thus no temptati<g ref="char:EOLhyphen"/>on
+<pb n="84" facs="tcp:169458:52"/>befalls us, but what is com<g ref="char:EOLhyphen"/>mon to the Saints. But as man expects newes, ſo God alſo looks for newes, even for new men and new minds, hee would have old things paſt, and all things be<g ref="char:EOLhyphen"/>come new. And indeed wee are not fit for good newes, till we our ſelves are made good &amp; new. Old bottles are not fit for new wine. Renue, O Lord, the ſpirit of my mind, ſo ſhall I heare of joy and gladneſſe; and what I heare, ſhall not only be new, but good. I will therefore be as inquiſitive what is new within me, as what is new without me.</p>
+            </div>
+            <div n="59" type="part">
+               <head>LIX.</head>
+               <p>
+                  <hi>TO you it is given in the behalfe of Chriſt,</hi>
+                  <note place="margin">Phil. 1.29.</note> 
+                  <hi>not onely to beleeve on him, but alſo to ſuffer for his ſake,</hi> ſaith the Apoſtle of his <hi>Philip<g ref="char:EOLhyphen"/>pians:</hi> implying that beleeving in
+<pb n="85" facs="tcp:169458:52"/>Chriſt, and ſuffering for Chriſt, are two different gifts of God; yet ſuch gifts they are, as one doth in ſome meaſure accompa<g ref="char:EOLhyphen"/>ny the other. A weak faith may ſuffer ſomething in loſſe of goods, or good name for Chriſt, though he cannot reſiſt to blood, and loſſe of life: for when faith is weak, feare is ſtrong, and doubts are many. So farre as we incline to nature, we decline from and avoid ſufferings. As our faith is in Chriſt, ſo is our love to him, either in the ſparkle or in the flame, ſuch as many waters can<g ref="char:EOLhyphen"/>not quench. There is ſuch a faith as may make us not only active, but paſſive for Chriſt. It ſhall bee my deſire and prayer, not onely for the gift of beleeving, but with it the gift of ſuffering. How can I have a true faith in Chriſt, and no power from Chriſt to ſuffer
+<pb n="86" facs="tcp:169458:53"/>any thing for him who ſuffered all for me, nay who ſuffers all in mee.</p>
+            </div>
+            <div n="60" type="part">
+               <head>LX.</head>
+               <p>VVEE ſee in theſe dayes, what ſhifts the men of the world make to ſave them<g ref="char:EOLhyphen"/>ſelves. One to his Tower and Ca<g ref="char:EOLhyphen"/>ſtle; ſome put their truſt in hor<g ref="char:EOLhyphen"/>ſes; others in riches; one hides; another flyes. As the man is car<g ref="char:EOLhyphen"/>nall, his confidence is carnall, his weapons and helps of deliverance carnall. From this carnall wiſ<g ref="char:EOLhyphen"/>dome, a ſpirituall man may learn ſpirituall wiſdome, <hi>viz.</hi> when he ſeeth the evill to hide himſelfe; and where can he with ſafetie hide himſelfe, but in the Lord, who is the Rock, Caſtle, Tower, and hiding place of his people? For what ſafetie, helpe, ſuccour, confidence is in, or can be expe<g ref="char:EOLhyphen"/>cted
+<pb n="87" facs="tcp:169458:53"/>from any of theſe earthly helps; the ſame in a more abun<g ref="char:EOLhyphen"/>dant manner is in the Lord. <hi>The Name of the Lord is a ſtrong Tower, the righteous flie unto it and are ſafe.</hi> Such a Tower he is (if any com<g ref="char:EOLhyphen"/>pariſon can illuſtrate it) as the Tower of <hi>David,</hi> which was for an Armory, wherein there hung a thouſand Bucklers, all Shields of mightie men. To this Tower I will reſort, from this Tower I will fetch Ammunition; ſo ſhall I be ſafe from the enemy, and ſtrong againſt him. Let ſome put their truſt in Chariots, others in horſes, I will put my truſt in the Lord; for <hi>a horſe is a vaine thing; vaine is the helpe of man:</hi> He is one<g ref="char:EOLhyphen"/>ly ſtrong, that is ſtrong in the Lord.</p>
+            </div>
+            <div n="61" type="part">
+               <pb n="88" facs="tcp:169458:54"/>
+               <head>LXI.</head>
+               <p>VVEE alwayes reade that God provides a refuge and hiding place for his people in times of trouble and danger. An Arke for <hi>Noah;</hi> flaggs for <hi>Moſes;</hi> a little <hi>Zoar</hi> for <hi>Lot;</hi> a <hi>Midian</hi> for <hi>Moſes;</hi> a <hi>Haran</hi> for <hi>Jacob;</hi> Caves and rocks in the Citie <hi>Keilab</hi> for <hi>David;</hi> the Temple his own houſe for <hi>Joaſh;</hi> a cave for <hi>Obadiahs</hi> hundred Prophets; an <hi>Aegypt</hi> for <hi>Paul;</hi> a <hi>Pella</hi> for the Chriſtians leaving <hi>Hieruſalem.</hi> The Lord hides them, becauſe they are dear to him; they are his jewels, his treaſure; now in times of danger men hide their treaſures, and jew<g ref="char:EOLhyphen"/>ells, have their Cabinets. I am thine, O Lord, and therefore be thou my hiding place, <hi>cover mee with thy feathers, hide me in thy Pa<g ref="char:EOLhyphen"/>vilion,
+<pb n="89" facs="tcp:169458:54"/>keep me ſecretly in thy Taber<g ref="char:EOLhyphen"/>nacle from the pride of men &amp; ſtrife of tongues.</hi> Thus as the lame and blind having got into the Tower of <hi>Sion,</hi> derided <hi>David;</hi> ſo having gotten thee to be my Tower, I will laugh at calamities, warres, dangers.</p>
+            </div>
+            <div n="62" type="part">
+               <head>LXII.</head>
+               <p>
+                  <hi>The wicked are as a troubled Sea.</hi>
+                  <note place="margin">Pſa. 42.7. Rev. 12.15. Iſa. 59.19. Pſa. 32.6</note> The troubles w<hi rend="sup">ch</hi> they bring on the godly, are metaphorical<g ref="char:EOLhyphen"/>ly called <hi>waters, flouds of waters.</hi> Now water is one of the moſt mercileſſe creatures, if it be not contained, it will of it ſelfe keepe no bounds, but overflow all, car<g ref="char:EOLhyphen"/>ry away all before it. The helpe w<hi rend="sup">ch</hi> the godly may expect herein is from the Lord, who hath pro<g ref="char:EOLhyphen"/>miſed, <hi>that in flouds of great waters they ſhall not come nigh thee.</hi> If they doe come nigh their ſoules, <hi>yet
+<pb n="90" facs="tcp:169458:55"/>will the Lord be with them, ſo that they ſhall not drowne them.</hi> In ſuch inundations, god doth either provide for his an Arke to carry them above, as he did for <hi>Noah;</hi> or one to draw us out, as he did for <hi>Moſes,</hi> or elſe will cauſe the floud to be ſwallowed up, and the place made dry ground, as he did for the Church, <hi>Rev.</hi> 12. This diſtracted Kingdome is as a troubled Sea, the waters thereof come nigh our ſoules. Our hope is, that he who ſetteth bounds to the Sea, that it ſhall goe no fur<g ref="char:EOLhyphen"/>ther, will limit the rage of theſe waters, and either carry us above them by his power, or be with us in them by his preſence, and make a way for us through them by his providence, as he did for <hi>Iſrael,</hi> that ſo we may attain to his hea<g ref="char:EOLhyphen"/>venly <hi>Canaan.</hi>
+               </p>
+            </div>
+            <div n="63" type="part">
+               <pb n="91" facs="tcp:169458:55"/>
+               <head>LXIII.</head>
+               <p>
+                  <hi>MAny are the troubles of the righteous,</hi>
+                  <note place="margin">Pſal. 34.15.</note> 
+                  <hi>but the Lord de<g ref="char:EOLhyphen"/>livereth them out of all.</hi>
+                  <note place="margin">Iob 5.19.</note> 
+                  <hi>He ſhall de<g ref="char:EOLhyphen"/>liver thee in ſix troubles, yea in ſe<g ref="char:EOLhyphen"/>ven there ſhall no evill touch thee.</hi> Where ſome of the learned ſay, the Spirit of God alludeth unto the dayes of the Lords worke of Creation in the ſix dayes, and ceſ<g ref="char:EOLhyphen"/>ſation on the ſeventh, implying that his ſervants muſt labour all the dayes of their lives with griefe and ſorrow, and ſhall not be re<g ref="char:EOLhyphen"/>freſhed till that everlaſting Sab<g ref="char:EOLhyphen"/>bath. Others conceive, that by <hi>ſix</hi> and <hi>ſeven,</hi> are underſtood ma<g ref="char:EOLhyphen"/>ny evills,<note place="margin">Pro. 24.16.</note> an indefinite number for a definite. However, if all my days muſt be ſpent in ſorrow, I will comfort my ſelfe with the aſſured hope of a time of refreſhing and reſt at laſt. As my troubles are
+<pb n="92" facs="tcp:169458:56"/>many, my deliverances ſhall be as many, though my labour be long and tedious, my reſt ſhall be joy<g ref="char:EOLhyphen"/>ous and eternall. That Sabbati<g ref="char:EOLhyphen"/>call yeare will recompence me <hi>for the years wherein I have ſuffered ad<g ref="char:EOLhyphen"/>verſitie.</hi>
+               </p>
+            </div>
+            <div n="64" type="part">
+               <head>LXIV.</head>
+               <p>
+                  <hi>O<g ref="char:V">Ʋ</g>r light affliction which is but for a moment,</hi>
+                  <note place="margin">2 Cor. 4.17.</note> 
+                  <hi>worketh for us a farre more exceeding, and eter<g ref="char:EOLhyphen"/>nall weight of glory,</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle moſt ſweetly. Where wee ſee a very elegant Antitheſis or op<g ref="char:EOLhyphen"/>poſition betwixt preſent afflicti<g ref="char:EOLhyphen"/>ons and future glory. Wee ſhall have for affliction glory, for light affliction maſſie ſubſtantial glory, a <hi>weight of glory;</hi> for momentary affliction, eternall glory: Yea he addeth, degrees of compariſon beyond all degrees; calling it <hi>ex<g ref="char:EOLhyphen"/>cellent, more excellent, farre more ex<g ref="char:EOLhyphen"/>cellent,
+<pb n="93" facs="tcp:169458:56"/>an exceeding exceſſive weight of glory.</hi>A full and pithy ſpeech, ſufficient to make one ſwallow downe the moſt bitter affliction. Eternall glory will anſwer tem<g ref="char:EOLhyphen"/>porall afflictions; A weight of glory, will weigh downe light af<g ref="char:EOLhyphen"/>flictions. I will therefore not mur<g ref="char:EOLhyphen"/>mure at my afflictions, ſeeing glory ſucceeds them; I will wil<g ref="char:EOLhyphen"/>lingly goe through momentary afflictions, when my glory ſhall be eternall. My affliction ſhall ſeeme light, when I think of that weight of glory.</p>
+            </div>
+            <div n="65" type="part">
+               <head>LXV.</head>
+               <p>PErfection and perpetuitie, are the two ſatisfactory conditi<g ref="char:EOLhyphen"/>ons which an enlightened ſoule requires in any defired object, neither is any thing by it eſteemed truly perfect, unleſſe it be accom<g ref="char:EOLhyphen"/>panied with perpetuitie. Now if
+<pb n="94" facs="tcp:169458:57"/>wee look for perpetuitie in the creature, wee may heare every thing ſay, as concerning wiſdom; The Depth ſaith,<note place="margin">Iob 28.14.</note> it is not in me; the Sea ſaith, it is not in me. To this demand, things doe thus ſub<g ref="char:EOLhyphen"/>ſcribe; Riches ſay, Yours till a time of warre; Honours ſay, Yours till an enemy eclipſe your Princes favour; Friends ſay, yours as you uſe him; Wives ſay, yours till death; God onely ſays, <hi>I will never leave thee nor forſake thee.</hi> In him onely is perfection, who is the moſt perfect, perpetuitie one<g ref="char:EOLhyphen"/>ly in him who is the ſame for ever.</p>
+            </div>
+            <div n="66" type="part">
+               <head>LXVI.</head>
+               <p>IT was a grievous affliction for <hi>David</hi> to be diſpoſſeſſed of his Kingdome by his own Son: Yet he ſaith in that condition,<note place="margin">2 Sam. 15.20.</note> 
+                  <hi>I the Lord ſay, I have no delight in him,
+<pb n="95" facs="tcp:169458:57"/>loe here am I, let him doe unto mee as it ſeemeth good in his eyes.</hi> The loſſe would not be of a ſmall thing, but of a Kingdome, and the perſon by whom he might have been dethroned, was not a ſtranger, or an enemy, nor a fa<g ref="char:EOLhyphen"/>miliar friend, but a ſonne. Yet in all this he ſubmits his will to God. It is a hard thing to bring the will low, when the eſtate is low; ſtubbornnes and pride may reſt there where is no outward thing to foment it. In ſome paſſi<g ref="char:EOLhyphen"/>on directs their wills, in moſt rea<g ref="char:EOLhyphen"/>ſon, but grace only makes it ſtoop to gods will. Lord though I am driven out of all with <hi>David,</hi> and if my eſtate be not framed to my will, frame my will to my eſtate; as the one is low, let the other be low alſo. If I muſt have <hi>Davids</hi> ſufferings, I deſire <hi>Davids</hi> pati<g ref="char:EOLhyphen"/>ence, and then I will ſay with <hi>Da<g ref="char:EOLhyphen"/>vid,
+<pb n="96" facs="tcp:169458:58"/>Loe here am I, let him doe with me what ſeemeth good in his eyes;</hi> or with the ſon of <hi>David; Not my will, but thy will be done.</hi>
+               </p>
+            </div>
+            <div n="67" type="part">
+               <head>LXVII.</head>
+               <p>I <hi>Have been young,</hi>
+                  <note place="margin">Pſa. 37.25.</note> ſays, <hi>David, and now an old, yet have I not ſeen the righteous forſaken, nor then ſeed begging bread.</hi> How different then ſeems the condition of Gods people now in theſe dayes, over it did in <hi>Davids?</hi> Are the righteous more in number now then they were then, and ſo is not their hea<g ref="char:EOLhyphen"/>venly Father able to provide for all? Or elſe doth he take leſſe care of them now, then he did then? No, God forbid. The truth is, that <hi>David</hi> in his own obſervation in his time might not ſee this; for he ſaith not, <hi>the righteous is never forſaken,</hi> but that he <hi>never ſaw it.</hi> Or elſe he might never ſee the
+<pb n="97" facs="tcp:169458:58"/>righteous and their <hi>ſee too forſa<g ref="char:EOLhyphen"/>ken;</hi> for wee ſee godly parents want, when afterward their chil<g ref="char:EOLhyphen"/>dren doe abound. Or elſe <hi>Davids</hi> meaning might be this, that he never ſaw the righteous forſaken in begging their bread, <hi>i.e.</hi> no not forſaken when they are brought to beggery; but even then the bowells of ſome might yearn up<g ref="char:EOLhyphen"/>on them to refreſh their bowells. Lord though thou inflicteſt po<g ref="char:EOLhyphen"/>vertie on me, yet remove it from my ſeed; or if thou haſt decreed both mee and mine to beggery, yet let us not be forſaken in beg<g ref="char:EOLhyphen"/>gery.</p>
+            </div>
+            <div n="68" type="part">
+               <head>LXVIII.</head>
+               <p>
+                  <hi>VVEE know not what to do,</hi>
+                  <note place="margin">2 Chro. 20.12.</note> 
+                  <hi>onely our eyes are to thee,</hi> ſays good <hi>Johoſaphat.</hi> Such may be the extremities of Gods peo<g ref="char:EOLhyphen"/>ple, that they may be at their
+<pb n="98" facs="tcp:169458:59"/>wits ends, neither wiſdome nor learning can teach them how to behave themſelves in their evills, much leſſe how to come out of them. The Lord doth often hide from us that helpe which wee look for in the creature, that we may look for it in him the crea<g ref="char:EOLhyphen"/>tor. Our caſe is not behinde <hi>Je<g ref="char:EOLhyphen"/>hoſaphats;</hi> for if we look about us, wee ſee nothing but tumults, fightings, ſo that wee know not what to doe; if within us, there's nothing but terrors, ſorrow and ſadneſſe of heart: in this caſe then wee ſhould look above us to God, who will inſtruct us in the way wee ſhould goe. I will therefore in my extremitie, ſhut the eye of ſenſe in looking on my miſery and weakneſſe, and open the eye of faith to look on Gods mercy and power. Thus lifting up my eyes to the hills, from whence
+<pb n="99" facs="tcp:169458:59"/>cometh my helpe, I ſhall receive helpe from them. God will be ſeene in the Mount, my extremi<g ref="char:EOLhyphen"/>tie ſhall be his opportunitie.</p>
+            </div>
+            <div n="69" type="part">
+               <head>LXIX.</head>
+               <p>
+                  <hi>MArk</hi> 10. we reade of <hi>Peters</hi> demand to Chriſt, <hi>Loe we have left all and followed thee; What ſhall wee have therefore?</hi> If you did look for gaine <hi>Peter,</hi> it had been your wiſeſt courſe to have made your bargaine at your firſt en<g ref="char:EOLhyphen"/>trance into your Maſters ſervice. But what great matter was it that you did forſake? Perhaps a torne net, an old pieced boate, a rot<g ref="char:EOLhyphen"/>ten oare: methinks the livery of Chriſt, and the bare title of be<g ref="char:EOLhyphen"/>ing his ſervant, ſhould counter<g ref="char:EOLhyphen"/>poiz all that you forſook for him. Hadſt thou known what a faith<g ref="char:EOLhyphen"/>full ſervant thou didſt prove to him in the high Prieſts hall,
+<pb n="100" facs="tcp:169458:60"/>ſhame would have ſtopped thy mouth from this demand: yet to this ſawcy demand our meek Sa<g ref="char:EOLhyphen"/>viour doth not give him a rough anſwer, bidding him goe as hee came, or tell him he ſhould ſtand to his courteſie; but tells him that for what he had loſt, hee ſhould have an hundred fold here with perſecution, and eternall life hereafter. O Lord, my loſſes perhaps doe not come behinde <hi>Peters;</hi> I will not demaud with <hi>Peter,</hi> what I ſhall have, but ſtand to thy courteſie: if with him thou repaieſt me here an hundred fold, I will look for perſecution with it; but give me life eternall here<g ref="char:EOLhyphen"/>after, and then I ſhall ſay, I am paid, overpaid for all.</p>
+            </div>
+            <div n="70" type="part">
+               <head>LXX.</head>
+               <p>THE ſhallowneſſe of our thoughts in compariſon of
+<pb n="101" facs="tcp:169458:60"/>Gods, appeares in this, that when we ſee the meanes wanting, we thinke then God is hindred from working, &amp; our ſelves depri<g ref="char:EOLhyphen"/>ved of all hope of good. To help this we have the power of God ſet forth ſometimes above all means, and beyond expectation, as when hee gave Iſrael Manna, and <hi>Samſon</hi> water. Sometimes by ma<g ref="char:EOLhyphen"/>king a little means ſuffice, as hee did by feeding five thouſand per<g ref="char:EOLhyphen"/>ſons with five loaves and two fiſhes. Sometimes without means, as hee did by preſerving <hi>Moſes</hi> and <hi>Elias</hi> fourtie dayes faſting. Sometimes againſt means, thus when the Diſciples did drinke poyſon, it did not hurt them. I will never therefore deſpaire for want of meanes, when I can truſt upon a God that can pre<g ref="char:EOLhyphen"/>ſerve me not onely above means, but without means, yea and a<g ref="char:EOLhyphen"/>gainſt
+<pb n="102" facs="tcp:169458:61"/>means. It is not for want of power in God, but from a<g ref="char:EOLhyphen"/>bundance and multiplying of his goodneſſe, that hee uſeth any meanes at all.</p>
+            </div>
+            <div n="71" type="part">
+               <head>LXXI.</head>
+               <p>COnſider the Ravens which neither ſow nor reap,<note place="margin">Luk. 12.24.</note> and yet the Lord feedeth them, ſaith our Saviour; Chriſt could have brought other examples of holy men, and bid them conſider <hi>Mo<g ref="char:EOLhyphen"/>ſes, Samſon, Elijah, John Baptiſt,</hi> who were extraordinarily cared for and fed by the Lord; but he would not, becauſe none ſhould exclude themſelves from Gods providence, becauſe they had not the holineſſe of thoſe perſons; as alſo becauſe it ſhould be an argu<g ref="char:EOLhyphen"/>ment for their faith, <hi>à majori,</hi> that if the maſter of the houſe provide for the poultry, hee will
+<pb n="103" facs="tcp:169458:61"/>not neglect his children. Thy providence, O Lord, extendeth to all, the earth is full of thy goodneſſe; I will not then ex<g ref="char:EOLhyphen"/>clude my ſelfe from it, ſeeing be<g ref="char:EOLhyphen"/>ſides thy providence, I have thy promiſe, that I ſhal lack nothing. Thy eſteeme of me doth oblige thee to it, as I am of more value then many Ravens; I am a child, and what child wil doubt of pre<g ref="char:EOLhyphen"/>ſent maintenance from his Fa<g ref="char:EOLhyphen"/>ther here, who is aſſured of a fu<g ref="char:EOLhyphen"/>ture inheritance from him here<g ref="char:EOLhyphen"/>after?</p>
+            </div>
+            <div n="72" type="part">
+               <head>LXXII.</head>
+               <p>
+                  <hi>FEed me with food convenient for me, leſt I bee full and deny thee, and ſay, Who is the Lord?</hi>
+                  <note place="margin">Prov. 30.8.</note> was <hi>Agurs</hi> prayer, wherein hee im<g ref="char:EOLhyphen"/>plies, 1. That that food is con<g ref="char:EOLhyphen"/>venient for ſome, which is not for others; the condition, cu<g ref="char:EOLhyphen"/>ſtome, means, education of ſome,
+<pb n="104" facs="tcp:169458:62"/>being different from others. 2. That fulneſſe is a mean, or oc<g ref="char:EOLhyphen"/>caſion of denying the Lord; they that have and poſſeſſe all things in fulneſſe and abundance, are not ſo likely to come to the Lord for their daily food, as they that have it for a day, not for the morrow. The larger the Ciſterneis, the ſeldomer we goe to the Well. The ſtaffe of bread if it be long and large, is ſtill lea<g ref="char:EOLhyphen"/>ned upon without looking to the Lord. Nature is content with little, grace with leſſe, food brought in by Ravens, was more convenient for <hi>Eliah</hi> then the dainties of <hi>Jazabe's</hi> Table; and <hi>Daniels</hi> pulſe, then <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zars</hi> delicious fare. A good con<g ref="char:EOLhyphen"/>ſcience is a continuall feaſt, it will make barly bread taſt well, digeſt well. Let the Lord feed mee with any food, it ſhall be
+<pb n="105" facs="tcp:169458:62"/>covenient for me, ſo he ſawce it with his Hidden Manna.</p>
+            </div>
+            <div n="73" type="part">
+               <head>LXXIII.</head>
+               <p>GOD doth not give all his children his bleſſings in the groſſe, but by little and little; not for their lives, nor from yeare to yeare, but from day to day. Should we have all at once, we ſhould be leſſe thankfull, and leſſe fruitfull. One exceſſive vio<g ref="char:EOLhyphen"/>lent ſhowre will not make the earth ſo fruitfull, as often dewes and rain. He that powres down one great favour, and withholds his hand, ſhall not ſo oblige the receiver, as he that drops a token daily. Beſides, the Lord takes this order in the diſpenſation of his mercies, that we may by prayer ſeek to him for our daily bread, therefore called daily, becauſe we muſt ſeek daily for it. Should the
+<pb n="106" facs="tcp:169458:63"/>Lord with the prodigall give us our portion at once, wee ſhould take our farewell, and never re<g ref="char:EOLhyphen"/>turn till neceſſity drive us. The better therefore to flie unto God on the wings of devotion, we are kept low, thus ſhall we know his love, and return to him at a call; whereas if we had all things at the full, we ſhould take the wing and follow after vanity. When mercies thus come by degrees, we are made to wait for them, deſire them, ſign for them. I ſeek thee at the dawning of the day, my ſoule thirſteth for thee in a bar<g ref="char:EOLhyphen"/>ren wilderneſſe, where is no wa<g ref="char:EOLhyphen"/>ter, ſayes <hi>David.</hi> Renew thy goodneſſe to me, O Lord, every morning, ſo ſhall my devotion, thankfulneſſe, obedience, be daily renewed towards thee.</p>
+            </div>
+            <div n="74" type="part">
+               <pb n="107" facs="tcp:169458:63"/>
+               <head>LXXIV.</head>
+               <p>
+                  <hi>TRuſt in the Lord and doe good, ſo ſhalt thou dwell in the Land, and verily thou ſhalt be fed.</hi>
+                  <note place="margin">Pſa 37.3.</note> Wee cannot doe good unleſſe we have truſt and faith in God; neither have we faith in God, unleſſe we doe good. Theſe two muſt goe hand in hand, and this twofold duty hath a twofold bleſſing here promiſed, habitation, and pro<g ref="char:EOLhyphen"/>viſion, ſtability and ſatiety, dwelling in the land, and being fed in the land. Now as we can<g ref="char:EOLhyphen"/>not doe good, but by perſiſting in the worke of our calling; ſo neither can wee bee aſſured of a bleſſing on that work, unleſſe we truſt in God. I will therefore be diligent in the calling whereto I am called, and what good I can doe, I will endevour to doe; and what is wanting in my doing, I
+<pb n="108" facs="tcp:169458:64"/>will make up by beleeving: For ſhould I omit this doing, my truſting in God would be a tem<g ref="char:EOLhyphen"/>pting of God. Thus though I I have no certain dwelling place, yet I have one in the promiſe, as well for this life, as that to come; and though I ſee not how to bee fed; yet ſeeing thou haſt ſaid, Verily I ſhall bee fed: Verily I will beleeve it.</p>
+            </div>
+            <div n="75" type="part">
+               <head>LXXV.</head>
+               <p>IT is Gods uſuall courſe to help his ſervants at a pinch. When <hi>Iſaaks</hi> neck is on the block at a halfe blow, the Lord ſtayes the execution. When Iſ<g ref="char:EOLhyphen"/>rael hath the ſea on one ſide, and the enraged enemy on the other; when <hi>Jehoſaphat</hi> knowes not what to doe, when <hi>Peter</hi> is ſink<g ref="char:EOLhyphen"/>ing, the Lord puts forth his hand. Not as if God were not alwayes
+<pb n="109" facs="tcp:169458:64"/>the ſame, or could not help, for his arme is never ſhortned; but becauſe his wiſdome directs his power, both to time, place, man<g ref="char:EOLhyphen"/>ner, and meanes. Were the Lord ſeen in the beginning of trou<g ref="char:EOLhyphen"/>bles, we ſhould not reap ſo much comfort, nor God ſo much glo<g ref="char:EOLhyphen"/>ry. God could have helped <hi>La<g ref="char:EOLhyphen"/>zarus</hi> in his bed, as he did the Rulers ſonne; or in his coffin, as he did the widow of <hi>Naims</hi> ſonne; but then his glory had not been ſo much, as to doe it when hee had lain in the grave foure dayes. 'Tis ſaid therefore of his ſickneſs, that it was to the glory of God. The cure of ſome ſuperficiall ſcar, doth not honour the Chirurgion ſo much, as an old feſtered foare. In my extremities therefore I will take heed of impatience and importunity, ſo as to ſay with the King of <hi>Iſraels</hi> meſſenger,
+<pb n="110" facs="tcp:169458:65"/>
+                  <hi>What, ſhall I wait for the Lord any longer?</hi> I will wait on the Lord, and the ſhal ſtrengthen my heart. <hi>Yet a little while, and he that ſhall come, will come, and will not tarry.</hi> 'Tis good manners for me to ſtay his leaſure, and it is his great mercy if he help at laſt.</p>
+            </div>
+            <div n="76" type="part">
+               <head>LXXVI.</head>
+               <p>
+                  <hi>CAſt thy burden on the Lord, and he ſhall ſuſtain thee.</hi>
+                  <note place="margin">Pſa. 55.</note> There's a gracious command, and as gra<g ref="char:EOLhyphen"/>cious a promiſe: who then will not be beholding for anothers ſhoulder, when his burden is heavier then he can beare? Now God bids us caſt all on him, as being able to beare all, and wil<g ref="char:EOLhyphen"/>ling to take all on him. Moſt of our diſquietneſſe therefore in our conditions, is from troubling our ſelves about that which is Gods work. Hee that will not
+<pb n="111" facs="tcp:169458:65"/>help for his burden, muſt beare it or lie under it himſelfe. That onely which makes him refuſe to take it off us, is becauſe wee re<g ref="char:EOLhyphen"/>tain ſin within us. Our ſins op<g ref="char:EOLhyphen"/>preſſe God more then our wants can. Wee read that God com<g ref="char:EOLhyphen"/>plains hee was laden and weari<g ref="char:EOLhyphen"/>ed with Iſraels ſinnes, but not with their afflictions. This <hi>Jo<g ref="char:EOLhyphen"/>nah</hi> then muſt bee caſt over<g ref="char:EOLhyphen"/>boord before the ſtorme ceaſeth. Hee that knowes how to beare the burden of ſinne, muſt know how to beare his burdens for ſinne: and then it is a moſt hea<g ref="char:EOLhyphen"/>vie condition to bee under the burden of affliction, and the preſ<g ref="char:EOLhyphen"/>ſures of a guilty conſcience.</p>
+            </div>
+            <div n="77" type="part">
+               <head>LXXVII.</head>
+               <p>NOtwithſtanding Gods pro<g ref="char:EOLhyphen"/>vidence over us, wee muſt not be careleſſe or neglectfull in
+<pb n="112" facs="tcp:169458:66"/>our own endeavours; we muſt up and be doing, and not caſt all on God, like the Clowne in the fa<g ref="char:EOLhyphen"/>ble, who when his Cart was over<g ref="char:EOLhyphen"/>thrown, ſtood ſtill, and prayed to <hi>Jupiter. Jacob</hi> might have fa<g ref="char:EOLhyphen"/>miſhed, if he had not ſent out horſe &amp; man to <hi>Aegypt</hi> for corne; and ſo might <hi>Ruth,</hi> if ſhee had not gleaned; <hi>Paul</hi> and his com<g ref="char:EOLhyphen"/>pany might have been drowned, if they had not ſwimmed. All theſe had promiſes of preſervati<g ref="char:EOLhyphen"/>on, and yet they did what they could to preſerve themſelves. Gods decree towards us includes the uſe of the means. The moti<g ref="char:EOLhyphen"/>on and proceedings of the ſecon<g ref="char:EOLhyphen"/>dary cauſes, proceed from the primary, and are included in them, and carried about by them, as the inferior Orbes by the firſt Mover; ſo that it would be in vaine to depend upon the one,
+<pb n="113" facs="tcp:169458:66"/>without the uſe of the other. As I will not truſt in the means, ſo I will not neglect the uſe of them: otherwiſe my neglect of them, ſhall fruſtrate my hopes in them. God hath put the end, and the means together; and what the moſt wiſe God hath joyned to<g ref="char:EOLhyphen"/>gether, none but a foole will put aſunder.</p>
+            </div>
+            <div n="78" type="part">
+               <head>LXXVIII.</head>
+               <p>UPon whomſoever God be<g ref="char:EOLhyphen"/>ſtoweth faith, he doth with<g ref="char:EOLhyphen"/>all give tryalls of it, more or leſſe, firſt or laſt. For as all men have not faith, ſo the ſeeming faith of many is no faith. All is not gold that gliſters, the touch ſtone ſhew<g ref="char:EOLhyphen"/>eth what it is. The fight demon<g ref="char:EOLhyphen"/>ſtrates the Souldiers valour; a ſtorme the Pilates skill. A tem<g ref="char:EOLhyphen"/>porary faith may for a while flouriſh, but one fiery tryall will
+<pb n="114" facs="tcp:169458:67"/>make it vaniſh. Corruption can<g ref="char:EOLhyphen"/>not, or will not diſcover corrup<g ref="char:EOLhyphen"/>tion, but God will make it ap<g ref="char:EOLhyphen"/>peare, when it will not endure the tryall. As grace is deſirable, ſo its truth and ſinceritie is more deſirable. Now among graces, faith is the moſt uſefull; and therefore it concerns us to looke to the truth of it. I will examine whether I be in the faith or no, and if my touchſtone erre, Lord bring it to thine, ſo ſhall the try<g ref="char:EOLhyphen"/>all of my faith being more preci<g ref="char:EOLhyphen"/>ous then gold that periſheth, be found unto praiſe and glory, at the appearing of Jeſus Chriſt.</p>
+            </div>
+            <div n="79" type="part">
+               <head>LXXIX.</head>
+               <p>COmmonly the Lord doth exerciſe our faith by tryalls in thoſe things which wee moſt affect, that it may appeare which hath moſt of our hearts, either
+<pb n="115" facs="tcp:169458:67"/>God or them. <hi>Abraham</hi> had but one childe begotten of <hi>Sarah,</hi> and the Lord will try whether he will returne that childe to God that gave it. The circumſtances of the tryall doe greatly aggravate it. <hi>Take thy Sonne,</hi> ſaith the Lord, not thy beaſt; <hi>take thy onely Son Iſaac,</hi> not <hi>Iſhmael;</hi> take him thy ſelfe, and ſeek no other executio<g ref="char:EOLhyphen"/>ner; take him preſently, and de<g ref="char:EOLhyphen"/>lay not the time, Ile not allow thee a day or houre to conferre with, or comfort thy diſtracted heart; <hi>Get thee into the land of Moriah, three dayes journey,</hi> ſo long ſhall thy ſoule be in ſuſpence; When thou comeſt thither, ſlay him, having ſlaine him, burne him to me in ſacrifice; ſo many wayes did the Lord exerciſe his faith. Thus our moſt delectable things are thoſe wherein the Lord try<g ref="char:EOLhyphen"/>eth us. 'Tis wiſdome then not to
+<pb n="116" facs="tcp:169458:68"/>be too much endeared to that in affection, which wee would ſtill keepe with us in poſſeſſion. I will therefore endeavour to take off my heart from thoſe things w<hi rend="sup">ch</hi> God may take from me.</p>
+            </div>
+            <div n="80" type="part">
+               <head>LXXX.</head>
+               <p>SOme there are who in prayer for temporall things, are im<g ref="char:EOLhyphen"/>portunate beggers; as if ſuch things were abſolutely, and in their owne nature good. But I know not whether to admire in them, their folly or their ſawci<g ref="char:EOLhyphen"/>neſſe. Had the Lord made an ab<g ref="char:EOLhyphen"/>ſolute promiſe of temporalls, it would be a ſufficient ground for ſuch prayers. But oftentimes thoſe things which ſeeme good, prove ill unto us; ſo that by deſiring them, we wiſh evill to our ſelves. So farre as temporall things may doe us good, ſo farre God hath
+<pb n="117" facs="tcp:169458:68"/>promiſed them, and we may ex<g ref="char:EOLhyphen"/>pect them. The Lord knows what to give, and what we want, bet<g ref="char:EOLhyphen"/>ter then we our ſelves. But as for ſpirituall things, wee may be as bold beggers as we will, either in manner or meaſure. Theſe are ſimply good, and are ſimply de<g ref="char:EOLhyphen"/>ſirable. When ever therefore I pray for a temporall thing, I will firſt ſay, <hi>Thy will be done,</hi> and then <hi>Give me my daily bread.</hi>
+               </p>
+            </div>
+            <div n="81" type="part">
+               <head>LXXXI.</head>
+               <p>I <hi>Have learned in whatſoever eſtate I am, therewith to be content,</hi>
+                  <note place="margin">Phil. 41.11.</note> ſaith the Apoſtle: A leſſon which though <hi>Paul</hi> the Maſter had lear<g ref="char:EOLhyphen"/>ned, his Schollers may be to learne. Mens eſtates riſe and fall, ebbe and flow; now the art is to make our ſpirits have the ſame cadence with our eſtates. For herein a mans minde and eſtate,
+<pb n="118" facs="tcp:169458:69"/>reſemble the ſcales of a Ballance, which when one aſcends, the other deſcends. Sometimes our minds are higher then our means, otherwhiles our means are high<g ref="char:EOLhyphen"/>er then our minds, greater, and requiring other behaviours. Now nothing can exactly poize theſe, but a contented minde. If God ſet us low, and give us povertie, we muſt know how to be abaſed, and to be hungry; if he ſend us plentie and abundance, then to know how to be full and to a<g ref="char:EOLhyphen"/>bound. The difficultie lyes here<g ref="char:EOLhyphen"/>in, that when ſome are brought low, they are overcome with im<g ref="char:EOLhyphen"/>patience, unbeliefe, murmuring; if they are ſet on high, and have all things at full, they prove ei<g ref="char:EOLhyphen"/>ther forgetfull of God, or un<g ref="char:EOLhyphen"/>thankfull to God, or unkinde to others. Now this knowledge and art of contentation, orders our
+<pb n="119" facs="tcp:169458:69"/>converſation a right in both. God gives ſome plentie, but withholds this knowledg from them, &amp; thus their riſing proves to be their fall; God gives others povertie, and teacheth them this art of con<g ref="char:EOLhyphen"/>tentment, and then they have more comfort in a low eſtate, then they had in a high. O Lord, I am brought very low, make me know how to be abaſed, and if ever thou ſetteſt mee on high, teach me how to abound. Let me not ſinke being now poore, nor ſwell if ever I be rich.</p>
+            </div>
+            <div n="82" type="part">
+               <head>LXXXII.</head>
+               <p>
+                  <hi>GOdlineſſe with contentment, is great gaine.</hi>
+                  <note place="margin">1 Tim. 6.6.</note> No godli<g ref="char:EOLhyphen"/>neſſe without contentment, and no true contentment without godlineſſe. He that hath enough may very well be content; but a godly man hath enough, he hath
+<pb n="120" facs="tcp:169458:70"/>all; he hath both things preſent, and things to come: he is an heir of the promiſes, and he may bee ſure of their performance, be<g ref="char:EOLhyphen"/>cauſe faithfull is he that promi<g ref="char:EOLhyphen"/>ſeth. A ſufficiencie hee ſhall have here, a ſatietie hereafter. If any one ſay he is religious, and is not content, he hath but the form of godlineſſe, he denieth the power. Godlineſſe is of it ſelfe gain, but with contentment it is great gain.</p>
+            </div>
+            <div n="83" type="part">
+               <head>LXXXIII.</head>
+               <p>WHat way ſoever a Chri<g ref="char:EOLhyphen"/>ſtian looketh, hee may fide ſomething to forward him in this art of contentation. If hee look under him, he ſees what he is, duſt and aſhes, that from whence hee come, and to which he muſt returne. If within him, he ſhall find nothing but unwor<g ref="char:EOLhyphen"/>thineſſe,
+<pb n="121" facs="tcp:169458:70"/>whereby hee is leſſe then the leaſt of Gods favours. If without him, hee may ſee many better then him, poorer and low<g ref="char:EOLhyphen"/>er then himt. If above him, hee may ſee the place whither hee ſhall goe, and where is fulneſſe of joy. Thus both heaven and earth, our ſelves and others, teach us the leſſon of contentment. If thou art therefore diſcontent with thy eſtate, thou forgetteſt whence thou cameſt, whither thou muſt goe, what thou art, what others are. I will never murmure at my condition, ſeeing others have leſſe, I am leſſe then it, ſeeing earth is my beginning, and hea<g ref="char:EOLhyphen"/>ven my end.</p>
+            </div>
+            <div n="84" type="part">
+               <head>LXXXIV.</head>
+               <p>
+                  <hi>GIve me neither poverty nor ri<g ref="char:EOLhyphen"/>ches,</hi>
+                  <note place="margin">Pro. 30.8.</note> was <hi>Agurs</hi> prayer. A prayer which ſavours as much
+<pb n="122" facs="tcp:169458:71"/>of modeſty as wiſdome: of mo<g ref="char:EOLhyphen"/>deſty, ſeeing beggars ought not to be chuſers: of wiſdome, ſeeing a mean eſtate is the beſt eſtate. he that knowes the inconvenien<g ref="char:EOLhyphen"/>ces of a low or high eſtate, will chuſe a meane. They that wil be rich fall into many temptations, and they that are poore, fall into them likewiſe. Either of theſe extreames are fit baits for Sa<g ref="char:EOLhyphen"/>tan, and our corrup. hearts; but he that likes and keeps the mean, is freed from both. As I would not be a ſhrub of the vallies to be trampled on by all, ſo I would not be a Cedar of the mountains to be envied at by moſt. I have read a meane eſtate to be com<g ref="char:EOLhyphen"/>pared to the glaſſe of a win<g ref="char:EOLhyphen"/>dow, which keeps out a ſtorme, and admits the light; ſuch and e<g ref="char:EOLhyphen"/>ſtate is beſt, as frees a man from the ſtormes of the world, and ad<g ref="char:EOLhyphen"/>mits
+<pb n="123" facs="tcp:169458:71"/>the light of Gods counte<g ref="char:EOLhyphen"/>nance. A great eſtate like a great wall, may keep off the injuries of the world; but not let in a beam of this light. As I will not pray then for poverty, ſo neither for riches, but for a convenient e<g ref="char:EOLhyphen"/>ſtate.</p>
+            </div>
+            <div n="85" type="part">
+               <head>LXXXV.</head>
+               <p>IT is written,<note place="margin">Pſal. 4.5.</note> 
+                  <hi>Man ſhall not live by bread only, but by every word that proceedeth out of the mouth of God.</hi> The Word doth not only ſanctifie our bread, but ſatisfie us in ſtead of bread; when the ſtaffe of bread failes us, the ſtaffe of the Word upholdeth us. They that think to live only by bread with<g ref="char:EOLhyphen"/>out the word, may for the preſent abound; but they that can live by the Word when they have no bread, are ſure never to want. Carnall men may deride this kind
+<pb n="124" facs="tcp:169458:72"/>of life, <hi>but at deſtruction and famine they ſhall laugh:</hi> the ſureſt way to injoy our food, is in the promiſe, <hi>I will ſatisfie her poore with bread:</hi> The heaven may with-hold its rain, and the earth not yeeld her increaſe, but before one word or tittle of Gods promiſe ſhall faile, heaven and earth ſhall paſſe a<g ref="char:EOLhyphen"/>way. Lord, I ſhould periſh in my affliction, but thy Word quickens mee. Thy Houſe is the houſe of bread, the true <hi>Bethlehem,</hi> thy Word is the bread of life; I will feed on it, live by it; ſo ſhall I never want, when I am at thy finding.</p>
+            </div>
+            <div n="86" type="part">
+               <head>LXXXVI.</head>
+               <p>I <hi>Will leave in the midst of thee an afflicted poore people,</hi>
+                  <note place="margin">Zeph. 3.1.</note> 
+                  <hi>that ſhall truſt in the name of the Lord.</hi> Gods people, though they are a poore people, yet they are a truſting
+<pb n="125" facs="tcp:169458:72"/>people: And how can they be a poore people, that are a truſting people? Doth not the Apoſtle tell us, that they are rich in faith? And we read of the riches of full aſſurance: 'tis only in the worlds eye, and in worldly things that they are poore; none poſſeſſe more then they, none can ſhew a title to more. All they injoy is in God, and they injoy all things in God. When the plunderers have deprived them of all, the hand of faith will receive more from God, or lay hold on all in God: It ſhall be my glory, to be one of Gods poor afflicted people, ſo I may have this grace, to be one of his truſting people.</p>
+            </div>
+            <div n="87" type="part">
+               <head>LXXXVII.</head>
+               <p>GReat is the uſe of faith; glorious things are ſpoken of it: It is called a ſhield, and as
+<pb n="126" facs="tcp:169458:73"/>heretofore, many have done va<g ref="char:EOLhyphen"/>liantly with this ſhield, ſo alſo may we now. By faith wee may be inabled with <hi>Abraham</hi> to leave our own countrey, with <hi>Moſes</hi> to forſake the pleaſures and prefer<g ref="char:EOLhyphen"/>ments of this life; yea, that which in theſe dayes is endeavoured to be done by ſtrength of hand, may be done aſſuredly by the ſtrength of faith. We may hereby ſubdue kingdomes, and not only eſcape, but learne, how by faith to handle the ſword; faith ma<g ref="char:EOLhyphen"/>king one of weak, become ſtrong: and wax valiant in fight. All our hope ariſeth from, and is ſtirred up by faith. In trouble faith ſtir<g ref="char:EOLhyphen"/>reth up prayer, prayer ſtirreth up God, God ſtirs up the means: Faith will with <hi>Jacob</hi> make us continue wraſtling with God till he bleſſe us: Faith wil draw water from the wells of ſalvation; it
+<pb n="127" facs="tcp:169458:73"/>will not only ſupport us in trou<g ref="char:EOLhyphen"/>ble, but bring us out. By faith I will be rich when I am poore; ſtrong when I am weak, joyfull when I am ſorrowfull. By it I will conquer, even when I am conquered. Let the Lord give me this grace of faith, and take away all that I have, yet by it I ſhall have as much as I had, more then I had; all that a God can yeeld is then mine.</p>
+            </div>
+            <div n="88" type="part">
+               <head>LXXXVIII.</head>
+               <p>IT is the nature of faith in its workings, to ſuſpend the ſoule from reflecting on its own weak<g ref="char:EOLhyphen"/>neſſe, and other difficulties, dire<g ref="char:EOLhyphen"/>cting it to look up to the Lord in whom its hope is, and from whom its help muſt come. In af<g ref="char:EOLhyphen"/>fliction we ſhould not onely con<g ref="char:EOLhyphen"/>ſider how unable we are to beare them, but how able God is to
+<pb n="128" facs="tcp:169458:74"/>help our infirmities. Afflictions and troubles are manifold, but God is one and the ſame; and a true faith can make uſe of one God to conquer twenty troubles, one promiſe to ſupport him in many dangers. Senſe preſenteth many enemies, but faith ſeeth more with it, then are or can be againſt it. What rule and courſe the Apoſtle, <hi>Heb.</hi> 12.13. preſcri<g ref="char:EOLhyphen"/>beth to lay aſide any weight of ſinne, <hi>viz. To look up to Jeſus,</hi> the ſame muſt we take to be eaſed of any weight of affliction.</p>
+            </div>
+            <div n="89" type="part">
+               <head>LXXXIX.</head>
+               <p>IT is written, <hi>The juſt ſhall live by faith.</hi> Now faith lives on the promiſe, and the promiſe lives and abides, becauſe God lives and abides the ſame for evermore. The life of a beleever is not maintai<g ref="char:EOLhyphen"/>ned by any mutable periſhing
+<pb n="129" facs="tcp:169458:74"/>thing, and therefore it cannot ſuffer mutation. When we have no other feeding then, faith can be our bread, when wee have no other ſtay, faith can be our ſtaffe; and when temporall things are removed from us, yet if faith ap<g ref="char:EOLhyphen"/>prehend a promiſe, it hath plen<g ref="char:EOLhyphen"/>ty enough; one promiſe ſuppor<g ref="char:EOLhyphen"/>teth faith more then many thou<g ref="char:EOLhyphen"/>ſands <hi>per annum.</hi> Hee then that hath a large faith, hath a large living. That onely which cauſeth diſcomfort in a Chriſtian walke, is, the ſuſpenſion and intermiſſi<g ref="char:EOLhyphen"/>on of faiths actings. For if wee would let faith have its perfect work, it would ſupport us in all wants. Now faith doth its work beſt alone, having a higher prin<g ref="char:EOLhyphen"/>ciple then the life of ſenſe. Faith acteth upon a faithfull promiſe, and an Almighty God. Now as faith will not leave God; ſo God
+<pb n="130" facs="tcp:169458:75"/>will not faile faith. The dutie then of beleeving onely is ours, the worke of helping is Gods.</p>
+            </div>
+            <div n="90" type="part">
+               <head>XC.</head>
+               <p>THe ſight is the quickeſt of all the ſenſes, for it can ken from earth to heaven in a moment; and is alſo the largeſt, for it can be<g ref="char:EOLhyphen"/>hold the whole Hemiſphere by one act of viewing. Moſt fitly therefore in the Scriptures doth the Spirit of God ſet forth the acts of faith, by ſeeing, behold<g ref="char:EOLhyphen"/>ing, looking. Hereby <hi>Abraham</hi> is ſaid to <hi>ſee afarre off;</hi> whereas un<g ref="char:EOLhyphen"/>beleevers are by S. <hi>Peter</hi> deſcribed to be ſuch as cannot <hi>ſee afarre off.</hi> O then let us labour for a large faith, as we have a large object; for wee can never be ſtraltned in our God, unleſſe we be ſtraitned in our faith. If wee had a thou<g ref="char:EOLhyphen"/>ſand times more faith, we might
+<pb n="131" facs="tcp:169458:75"/>receive a thouſand times more bleſſings of God. When the Pro<g ref="char:EOLhyphen"/>phet came to the widows houſe, as many veſſels as ſhee had were filled with oyle. The reaſon why ſo many abide under wants, is becauſe they cannot ſee more in God, nor receive more from him. For to them all communicable good that they ſee in God be<g ref="char:EOLhyphen"/>longs unto them.</p>
+            </div>
+            <div n="91" type="part">
+               <head>XCI.</head>
+               <p>
+                  <hi>IN Chriſt dwelleth all fulneſſe;</hi> a fulneſſe not onely of ſuffici<g ref="char:EOLhyphen"/>ency for himſelfe, but of redun<g ref="char:EOLhyphen"/>dancy for us. A fulneſſe not of a veſſell which will hold no more, and of which a little being taken, its fulneſſe is diminiſhed; but a fulneſſe of the Ocean, which though it be ſtill emptying it ſelf, is ſtill full; A fulneſſe of the Sun, which though it diffuſeth daily
+<pb n="132" facs="tcp:169458:76"/>light and heat, hath never the leſſe. Though all the Saints in heaven partake of Chriſts glory, and all the Saints on earth of his grace, yet hath he never the leſſe glory or grace. There is in Chriſt a fulneſſe of power to protect, of wiſdome to direct, of truth to confirme us, of love to comfort us, of life to quicken us: Of all, yea, and more then all wee can aske or thinke. Now of this ful<g ref="char:EOLhyphen"/>neſs, I may receive grace for grace, for if I am a member, I muſt par<g ref="char:EOLhyphen"/>take of the heads fulneſſe; If I am a Spouſe, I muſt partake of my husbands fulneſſe, to ſupply all my wants. I will therefore ne<g ref="char:EOLhyphen"/>ver complaine of emptineſſe and wants, as long as there is in Chriſt not onely a fulneſſe, but a free<g ref="char:EOLhyphen"/>neſſe to communicate; For as ſure as Chriſt is mine, his fulneſſe is mine.<note place="margin">Iam. 1.5</note> He gives to all men, and
+<pb n="133" facs="tcp:169458:76"/>yet he gives liberally, which no rich man in the world is able to doe, becauſe as he gives to others himſelfe decreaſeth.</p>
+            </div>
+            <div n="92" type="part">
+               <head>XCII.</head>
+               <p>OUr communiion with Chriſt is that which may comfort us in the diſunion of all outward comforts from us; for our neare<g ref="char:EOLhyphen"/>neſſe with him, aſſures us of his compaſſion under them, and his helpe to beare them. If then I have Chriſt with mee, there can be no eſtate cumberſome to mee. If I am weake in body, Chriſt my head was wounded; if deje<g ref="char:EOLhyphen"/>cted in minde, Chriſt my head was heavy unto death; if I ſuffer in my eſtate, Chriſt my head was poore, even as poore as a ſervant, even as any ſervant of his Chriſts head hath ſanctified any thornes, his back any furrowes, his hands
+<pb n="134" facs="tcp:169458:77"/>any nayles, his ſide any ſpeare, his heart any ſorrowes that can come to mine. Thus though I beare the yoake, yet being it is Chriſts yoake, I have Chriſts fel<g ref="char:EOLhyphen"/>lowſhip under it; I have his Spi<g ref="char:EOLhyphen"/>rit to helpe beare it, and Chriſts ſtrength to draw it; I have his graces to be glorified by it; his compaſſion to moderate it; his victories to overcome it; his crowne to reward it.</p>
+            </div>
+            <div n="93" type="part">
+               <head>XCIII.</head>
+               <p>THe bleſſed Apoſtle <hi>Paul</hi> rec<g ref="char:EOLhyphen"/>koned all things loſſe for Chriſt; not as if he did actually part with all things (though if occaſion had bin offer'd he might) but as they were of no more e<g ref="char:EOLhyphen"/>ſteeme with him, nor did take more comfort from them, then he could from that which was loſt and taken from him. Moſt
+<pb n="135" facs="tcp:169458:77"/>heavenly Spirit, (would to God we were all like thee in this) thou hadſt many prerogatives in thy birth, many priviledges in thy e<g ref="char:EOLhyphen"/>ducation, many common gifts, much outward righteouſneſſe; and yet was all this but loſſe for Chriſt. Surely in this many of us are but almoſt Chriſtians, when we preferre a trifle before Chriſt, and reckon that loſt which is ta<g ref="char:EOLhyphen"/>ken from us for Chriſt, or given to his members. Lord if I have any thing worth loſing, let me gaine Chriſt; and if I loſe it not in poſſeſſion, I will in affection e<g ref="char:EOLhyphen"/>ſteeme it as loſſe, yea as dung for Chriſt.</p>
+            </div>
+            <div n="94" type="part">
+               <head>XCIV.</head>
+               <p>
+                  <hi>VVEE know that all things worke together for good to them that love God.</hi>
+                  <note place="margin">Rom. 8.</note> If all things, then afflictions, and loſſes. Now
+<pb n="136" facs="tcp:169458:78"/>we ſee that afflictions and world<g ref="char:EOLhyphen"/>ly loſſes, worke worldly ſorrow, and worldly ſorrow worketh death; how then doe they worke together for good? The Apoſtle doth not ſay, all things of them<g ref="char:EOLhyphen"/>ſelves worke for good to ſuch, but <hi>worke together,</hi> i. e. together with the ſanctifying grace of God, whereby that which is e<g ref="char:EOLhyphen"/>vill, is turned into our good. Of poyſonous deſtructive Drugges, the Apothecary can compoſe healthſome cordialls. Thoſe things which are in themſelves evill, God can ſo alter and quali<g ref="char:EOLhyphen"/>fie by the ingredients of his grace, that they ſhall be good for his. As in proſperitie, God mingleth ſome evill to humbleus, ſo in ad<g ref="char:EOLhyphen"/>verſitie, he infuſeth ſome good to comfort us. So then, though our loſſes doe in themſelves worke much preſent ſorrow and miſe<g ref="char:EOLhyphen"/>ry,
+<pb n="137" facs="tcp:169458:78"/>yet being thus ſanctified they ſhall worke together for good; even the good of grace here, and that of glory hereafter. I will not therefore looke ſo much to the preſent miſery, as to the promiſed iſſue. How bitter ſoever the pill be for a time, yet health will be ſweet at laſt. Croſſes being thus maſtered by grace, prove ſervice<g ref="char:EOLhyphen"/>able to us.</p>
+            </div>
+            <div n="95" type="part">
+               <head>XCV.</head>
+               <p>
+                  <hi>THough the fig-tree ſhall not bloſſome,</hi>
+                  <note place="margin">Habak. 3.17.</note> 
+                  <hi>neither ſhall fruit be in the vine, the labour of the olive ſhall faile, the field ſhall yeeld no meate, the flocke ſhall be out off from the folds, and there ſhall be no herd in the ſtalls; yet will I rejoyce in the Lord; I will joy in the God of my ſalvation.</hi> It is a good thing to put caſes of preſuppoſed dangers and wants to our ſoules. Such ca<g ref="char:EOLhyphen"/>ſes
+<pb n="138" facs="tcp:169458:79"/>may not onely be praemoniti<g ref="char:EOLhyphen"/>ons of them, but praemunitions a<g ref="char:EOLhyphen"/>gainſt them; we may come there<g ref="char:EOLhyphen"/>by not onely to attaine a know<g ref="char:EOLhyphen"/>ledge of our preſent weakneſſe, but obtaine what ſtrength was wanting. Expected evills looſe their venome and ſtrength; and when they doe come, the patient may ſay in <hi>Agags</hi> words, that <hi>ſurely the bitterneſſe of them is paſt.</hi> Now in expectation of evills, we muſt not only praeconceive what may come, but what poſſibly can come; See it in theſe gradations of the Prophets faith. Who could not want figges one yeare, if the vine proſpered, if there were wine enough to cheare the heart? but though the vine were blaſted, yet the olive might helpe for a time; but if theſe liquors failed, yet if the fields give their returne of corne, water with it might pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="139" facs="tcp:169458:79"/>life; but if there were a dearth of corne, yet if the paſtures abounded with flockes, meate without bread might ſerve a while; and if the flockes were baned abroad, yet the ſtalls at home might preſerve the life of the owners. Thus frarre the life of ſenſe might goe; but when all theſe faile, and there's no out<g ref="char:EOLhyphen"/>ward comfort to be ſeene, yet then to rejoyce in the LORD, there's none but he that lives by faith can doe. What was the Pro<g ref="char:EOLhyphen"/>phets reſolution, I will endeavour to make mine. As long as God gives me the creature, I will uſe it, but not live onely by it; I will live by all, ſo as to truſt in none. I will take ſome comfort in what I have, but no true joy but in my God, and what I ſhall have from him. I will behold things before me, but ſo as to looke on things
+<pb n="140" facs="tcp:169458:80"/>above me. If all faile me, my God is all in all. He that lives by faith when things appeare, ſhall not periſh when thoſe things appeare not.</p>
+            </div>
+            <div n="96" type="part">
+               <head>XCVI.</head>
+               <p>I Seldome reade in the ſacred Volume, of any of Gods peo<g ref="char:EOLhyphen"/>ple ſuffering want, though among ſtrangers, and enemies, but have found favour in their ſight, and received kindneſſe from them. The <hi>Aegyptians</hi> were over and a<g ref="char:EOLhyphen"/>bove courteous to the <hi>Iſraelites,</hi> in that they would lend them their Jewells: This alſo the kind<g ref="char:EOLhyphen"/>neſſe of <hi>Bozz</hi> to <hi>Ruth,</hi> of <hi>Nebu<g ref="char:EOLhyphen"/>zaradan</hi> to <hi>Jeremiah,</hi> of <hi>Joſephs</hi> Keeper to him, of the chiefe Cap<g ref="char:EOLhyphen"/>taine to <hi>Paul,</hi> yea of the <hi>Barba<g ref="char:EOLhyphen"/>rians</hi> to <hi>Paul</hi> and his company, doe plainly teſtifie. This doth not ariſe ſo much out of any love which the one beareth to the
+<pb n="141" facs="tcp:169458:80"/>other, as from the over-ruling hand of God, which can turne mens hearts to whatſoever object or act he pleaſeth. The Lord can make them inſtruments in ſuch workes to which their natures are averſe. How great ſoever my wants are then, and how few my friends, yet as long as a ſtranger to mee is left, I hope not to be denied courteſies, perhaps more then ordinary. When my friends and acquaintance, to whom I am known, caſt me off, they to whom I am not known, ſhall receive me. He that is in favour with God, cannot but find favour with men; happie is he whoſe God is the Lord. For the Lord will doe him good, either by himſelf, or by ſuch inſtruments as are moſt unlikely.</p>
+            </div>
+            <div n="97" type="part">
+               <head>XCVII.</head>
+               <p>IF Beleevers in former times did ſuffer the ſpoyling of their
+<pb n="142" facs="tcp:169458:81"/>goods with joy, why ſhould not wee alſo in the ſame manner? We have the ſame God, the ſame promiſes, the ſame hope &amp; faith; and therefore why ſhould not we expreſſe the ſame joy in ſuch ca<g ref="char:EOLhyphen"/>ſes of ſuffering as they did? Af<g ref="char:EOLhyphen"/>flictions though they ſeeme grie<g ref="char:EOLhyphen"/>vous to the carnall part, yet they are tolerable to that which is ſpirituall; and as they afflict the one with ſorow, ſo they affect the other with joy, and that at the ſame time. See this in <hi>David,</hi> who when <hi>Ziglag</hi> was burned,<note place="margin">1 Sam. 30.6.</note> himſelfe plundered of his goods and wives, did at firſt weep till he could weep no lon<g ref="char:EOLhyphen"/>ger, and he was greatly diſtreſſed, thus farre he let looſe the reignes to nature and paſſion, yet ſee how his ſpirit upheld it ſelfe, hwen he preſently encouraged himſelfe in the Lord his God. <hi>Davids</hi>
+                  <pb n="143" facs="tcp:169458:81"/>caſe is now common to the ſeed of <hi>David,</hi> where fire and ſword pre<g ref="char:EOLhyphen"/>vaile; the preſent apprehenſion thereof may empty our heads of teares, but not our hearts of cou<g ref="char:EOLhyphen"/>rage. When our adverſaries are increaſed, our ſtrength failes us, our burdens increaſe, our eſtates decreaſe, ſo that wee can take pleaſure in no earthly thing, yet then may wee encourage our ſelves in the Lord, nad joy in the God of our ſalvation. The ſeed of <hi>David,</hi> as they are heirs of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> ſufferings, ſo alſo of his con<g ref="char:EOLhyphen"/>ſolations.</p>
+            </div>
+            <div n="98" type="part">
+               <head>XCVIII.</head>
+               <p>VVEE are apt to obſerve and take notice of what the Lord takes away from us, but not of what he gives us; thus minding one croſſe more then many favours. Did wee thus diligently look to our Book of
+<pb n="144" facs="tcp:169458:82"/>accounts with God, we ſhould finde that wee are indebted to him, and not he to us: For when the Lord takes away a bleſſing from his, hee gives them as good or better; here onely is the mi<g ref="char:EOLhyphen"/>ſtake, that when the Lord doth not pay us in our own coyn, and in the ſame kind of bleſſing, we think he is behind hand with us: as if he that borrowed ſo much in ſilver, but returnes the ſumme in a few pieces of gold, were ſtill indebted. God took away <hi>Eli<g ref="char:EOLhyphen"/>jah</hi> from <hi>Eliſha,</hi> but hee doubled his ſpirit upon <hi>Eliſha.</hi> Chriſt did withdraw his bodily preſence from his Diſciples, but hee ſent them the Comforter. The Lord takes from us temporall goods, but then hee gives us content, in a lower eſtate, and faith for a better. I will not be trou<g ref="char:EOLhyphen"/>bled if God deprive me of out<g ref="char:EOLhyphen"/>ward
+<pb n="145" facs="tcp:169458:82"/>gifts, ſo hee reſtore them unto me in inward graces. None that ever had trading in heaven, can ſay, he is a loſer, unleſſe hee miſtake his accounts.</p>
+            </div>
+            <div n="99" type="part">
+               <head>XCIX.</head>
+               <p>IMpatient people think God hath forgotten to be gracious, if hee deliver not in their time, and by their meanes: The Lord doth therefore hide the meanes and time from us, that his wayes of deliverance may be the more myſterious. God doth not al<g ref="char:EOLhyphen"/>wayes deliver from the trouble, but from the evill of it; nay, ſometimes hee delivers by the trouble, making that to bee the meanes which is our preſent mi<g ref="char:EOLhyphen"/>ſery. Thus is there a deliverance, when ſuffering the leſſe, wee are freed from the greater, as many are delivered by death temporall from death eternall; by loſſes of
+<pb n="146" facs="tcp:169458:83"/>the death, from the loſſe of hea<g ref="char:EOLhyphen"/>ven. If therefore our condition in ſuffering be ſo ſtrange, that we know not what to doe, yet the Lord knowes how to deliver. The Lords thoughts are not as our thoughts, but as farre ſur<g ref="char:EOLhyphen"/>paſſing, as the heavens doe the earth. That ſea which Iſrael thought would have been their grave, was their high way. And if the ſuffering be long and tedi<g ref="char:EOLhyphen"/>ous, yet when the time of deli<g ref="char:EOLhyphen"/>verance is come, the Lord will not only anſwer us for our prai<g ref="char:EOLhyphen"/>ers, but for our patience and time in waiting.</p>
+            </div>
+            <div n="100" type="part">
+               <head>C.</head>
+               <p>SKin for skin, and all that a man hath wil he give for his life; life being better then goods. Now what bargain I ſhould have made for my life, the ſame hath God yeelded me my life upon: as
+<pb n="147" facs="tcp:169458:83"/>he hath given my goods as a prey to the enemies, ſo he hath given my life a prey to my ſelfe. Live<g ref="char:EOLhyphen"/>lihood is good, but life is better. <hi>Laban</hi> did <hi>Jacob</hi> much hurt in his eſtate, but God ſuffered him not to hurt his perſon. And now, O Lord, as thou haſt given me this life, by thy own inſpiration, by thy Sonnes redemption, by this laſt preſervation; ſo being not mine own, but thine, I deſire to live, not to my ſelfe, but to thee. Henceforth to mee to live, is Chriſt; he that hath his life pre<g ref="char:EOLhyphen"/>ſerved from an imminent dan<g ref="char:EOLhyphen"/>ger, ſhould not live onely to live, but to God and his glory.</p>
+            </div>
+            <div n="101" type="part">
+               <head>CI.</head>
+               <p>VVHen I heare the enemy, with <hi>Saul,</hi> breathe out threatnings and ſlaughter, ſay<g ref="char:EOLhyphen"/>ing, Kill, ſlay, hew them, piſtoll them, quarter them, I know not
+<pb n="148" facs="tcp:169458:84"/>whether doth exceed, their fury, or their folly, ſeeing that which is an act of enmity in the perſe<g ref="char:EOLhyphen"/>cuter, is an act of amity to the perſecuted: for hereby they are the ſooner diſpatched to heaven, and wait the leſſe time for their inheritance. Could they deſtroy the ſoule with the body, or ſepa<g ref="char:EOLhyphen"/>rate the ſoule from God, as eaſi<g ref="char:EOLhyphen"/>ly as they can divide it from the body, it were a high degree of revenge. But this belongs to the Lord onely, to whom vengeance belongs. I will not therefore fear him that can kill the body one<g ref="char:EOLhyphen"/>ly, but him that can deſtroy bo<g ref="char:EOLhyphen"/>dy and ſoule. Thus though they deſtroy this earthly tabernacle, my ſpirit ſhall return to God that gave it; and thus to die, would bee to mee gaine, yea ſuch gain, that if the enemy knew it, his envie would bee as great to my
+<pb n="149" facs="tcp:169458:84"/>ſoule ſeparated, as his enmity was to it united.</p>
+            </div>
+            <div n="102" type="part">
+               <head>CII.</head>
+               <p>ALL the comfort of a child of God is in this, that God is his God: for all good is in God in a more eminent manner, and fuller meaſure, then in any crea<g ref="char:EOLhyphen"/>ture. Now as God is his God, ſo all in God is for his good. If God be ours, all things are ours; but if he be not ours, though we had all, yet when loſſes come, nothing would be ours. Nothing is ſo much ours, as God is ours; for by his being ours, all things elſe are ours. Here alſo is the glo<g ref="char:EOLhyphen"/>ry and crown of rejoycing in a Chriſtian, that when all things elſe leave him, hee neither lo<g ref="char:EOLhyphen"/>ſeth his intereſt in God, nor God his intereſt in him.</p>
+            </div>
+            <div n="103" type="part">
+               <pb n="150" facs="tcp:169458:85"/>
+               <head>CIII.</head>
+               <p>VVE read of <hi>Jobs</hi> loſſes, that they fell out not at the ſame time, though one came in the neck of another. Parallell in manner to <hi>Jobs</hi> were mine: For when the <hi>Sabeans</hi> came, they dealt fairly (to ſee to) taking the one halfe that lay open, leaving me the other that lay hidden, (thankes rather to their blind<g ref="char:EOLhyphen"/>neſſe then their goodneſſe.) Yet at laſt that which lay hid, did appeare to them, perhaps by <hi>Chaldean</hi> wiſdome. Thus that which the Locuſts left, the Ca<g ref="char:EOLhyphen"/>terpillers have eaten. My com<g ref="char:EOLhyphen"/>fort is, that my beſt eſtate is ſo hidden and laid up, where ſuch Theeves cannot break through and ſteale; ſuch is that hidden meat and Manna they know not of; or if they did know, would not trouble themſelves with it;
+<pb n="151" facs="tcp:169458:85"/>but let who will take it for them.</p>
+            </div>
+            <div n="104" type="part">
+               <head>CIV.</head>
+               <p>VVHen the remembrance of my loſſes over-clouds my heart with a multitude of thoughts, yet even then have I a multitude of comforts from God to refreſh it. Every depth of my miſery, is accompanied with a depth of mercy. Amongſt all my loſſes, though not exceeding, yet the moſt affecting was that of my Library; which as for variety was good, ſo for value was not ſmall. herein my comfort is, that now the Lord may give me a double portion of his Spirit, whereby I ſhall not onely know, but know all things: what I had by ſtudy &amp; inſpection, I may now have by inſpiration: and thus I need not complain for want of bookes. Beſides, having depri<g ref="char:EOLhyphen"/>ved me of books, had they left
+<pb n="152" facs="tcp:169458:86"/>me a Peripatetick, not having a chamber ſo well furniſhed as <hi>Eli<g ref="char:EOLhyphen"/>ſha's</hi> was at <hi>Shunem,</hi> having in it a bed, ſtoole, table, or candle<g ref="char:EOLhyphen"/>ſtick, their mercy would then have leſſened my miſery; yet herein my comfort is, that I ſhall lie no worſe then my maſter did, who had not whereon to lay his head; and the remembrance of this my conformity to my Ma<g ref="char:EOLhyphen"/>ſter and Saviour, ſhall make any lodging as eaſie as a bed of Downe, though it ſeeme as hard as <hi>Jacobs</hi> pillowes of ſtone. Yet beſides theſe loſſes of bed and bookes, there had been ſome mercy in their crueltie, if they had not deprived mee of houſe and means; but in this my God is my comfort: for the earth is the Lords, and the ful<g ref="char:EOLhyphen"/>neſſe thereof; ſo that though I am diſpoſſeſſed of one place, the
+<pb n="153" facs="tcp:169458:86"/>worlds wideneſſe, and the Lords goodneſſe can yeeld me another. But if I have no further lot or<g ref="char:EOLhyphen"/>dained for me on earth, heaven alſo is the Lords, and there are many manſions; and I am aſſu<g ref="char:EOLhyphen"/>red he will provide a place for me there.</p>
+            </div>
+            <div n="105" type="part">
+               <head>CV.</head>
+               <p>AS we ought not deſire af<g ref="char:EOLhyphen"/>flictions and loſſes before they come, ſo we ought to pray, that they may be ſanctified unto us when they come upon us. Now they are never truly ſanctified to us, till we ſee God in them, and our ſelves altered by them. Many men that are non-proficients un<g ref="char:EOLhyphen"/>der the word of God, become well learned being a while under his rod. They who onely heard of God before with the eare, will now ſee him with the eye. As for my own part, I ingenuouſly con<g ref="char:EOLhyphen"/>feſſe,
+<pb n="154" facs="tcp:169458:87"/>that what I have preached to others, I could never truly practiſe till now. I have delivered to others many ſpeculations of the uſe of afflictions, of the life of faith in them, &amp; now I find in my ſelf experimentally true, what I taught. I am, with the Apoſtle, made able to comfort others which are in any trouble, by the ſame comfort wherewith I am comforted of God.<note place="margin">2 Cor. 1.4.</note> In briefe, I find theſe afflictions ſo far ſancti<g ref="char:EOLhyphen"/>fied to me, that I can ſay w<hi rend="sup">th</hi> 
+                  <hi>Da<g ref="char:EOLhyphen"/>vid, It is good for me to be afflicted;</hi> yea, can ſay with him that ſaid,<note n="*" place="margin">The<g ref="char:EOLhyphen"/>miſto<g ref="char:EOLhyphen"/>cles. Periiſ ſem niſi peruſ<g ref="char:EOLhyphen"/>ſem.</note> 
+                  <hi>I had been undone, unleſſe I had been undone.</hi> True it is what <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> ſayes is required to make a good Divine, <hi>viz.</hi> Meditation, Prayer, Tentation.</p>
+            </div>
+            <div n="106" type="part">
+               <head>CVI.</head>
+               <p>VVHen I read of the begin<g ref="char:EOLhyphen"/>ning and end of <hi>Job,</hi> I
+<pb n="155" facs="tcp:169458:87"/>know not whether to admire the mutable inſufficiency of the crea<g ref="char:EOLhyphen"/>ture, or the immutable ſufficiency of the Creator. We all know our beginnings, but our ends are hid from us. The Lord maketh rich and poore, he ſetteth up on high, and he caſteth down. The eſtate of <hi>Job</hi> at firſt conſiſted of ſeven thouſand ſheep and three thou<g ref="char:EOLhyphen"/>ſand Camels, five hundred yoke of Oxen, and five hundred ſhee Aſſes. Beſides, his own iſſue was ſeven ſons and three daughters. Here was an eſtate ſeeming im<g ref="char:EOLhyphen"/>poſſible to begained by one man; but more impoſſible, being loſt, to be repaired in one mans time. Yet we read, that the Lord bleſ<g ref="char:EOLhyphen"/>ſed the latter end of <hi>Job</hi> more then his beginning: for his for<g ref="char:EOLhyphen"/>mer ſubſtance was at the laſt doubled unto him in all things, ſave onely his children; they alſo,
+<pb n="156" facs="tcp:169458:88"/>as ſome think,<note place="margin">Conra: Diete<g ref="char:EOLhyphen"/>ric. ex Aug.</note> were multiplied, ſo many being in heaven with the Lord, as were on earth with him. This ſhould alſo bee my judge<g ref="char:EOLhyphen"/>ment, were not my doubt that which was their fathers, that they might at laſt curſe the Lord in their hearts. O Lord, thou haſt brought mee as low as <hi>Job,</hi> and thou canſt advance me as high as thou didſt him. I beleeve what thy Prophet told <hi>Amaziah,</hi> that the Lord could give him much more then this. However if thou doſt not increaſe my ſubſtance with <hi>Job,</hi> increaſe and continue in me the patience of <hi>Job.</hi>
+               </p>
+            </div>
+            <div n="107" type="part">
+               <head>CVII.</head>
+               <p>IT hath been the uſuall procee<g ref="char:EOLhyphen"/>ding of Beleevers for the act<g ref="char:EOLhyphen"/>ing of their faith on ſome diffi<g ref="char:EOLhyphen"/>cult thing, to reflect on ſome former act wherein the Lord de<g ref="char:EOLhyphen"/>monſtrated his power. Thus did
+<pb n="157" facs="tcp:169458:88"/>
+                  <hi>Abraham</hi> confirme himſelfe in the faith of <hi>Iſaacs</hi> reſurrection, be<g ref="char:EOLhyphen"/>cauſe he was by the power of God raiſed to him from a bar<g ref="char:EOLhyphen"/>ren wombe as a figure, <hi>Heb.</hi> 11.29. And <hi>Job</hi> from the reſurrecti<g ref="char:EOLhyphen"/>on of his body, argues the poſſi<g ref="char:EOLhyphen"/>bilitie of the raiſing of his eſtate.<note place="margin">Iob 19.25.26, 27.</note> Now there be two demonſtrati<g ref="char:EOLhyphen"/>ons of Gods power, which being applyed by any beleever, may keepe him from caſting away his confidence in the greateſt extre<g ref="char:EOLhyphen"/>mitie, or diſtreſſe and povertie. The firſt is Gods removing his ſinne from him; for there's more evill and obliquitie in ſinne, then can be in any affliction or judge<g ref="char:EOLhyphen"/>ment for ſinne; and therefore why may not the ſame God remove the one that removed the other. The ſecond is the reſurrection of their bodies at the laſt day, which if they truly beleeve, they cannot
+<pb n="158" facs="tcp:169458:89"/>doubt of the raiſing their eſtates now.<note place="margin">Ezek. 37</note> That God that can make dry ſcattered bones reunite, can make ſcattered goods come toge<g ref="char:EOLhyphen"/>ther; he that ſhall raiſe the bodies of his people from the duſt, can alſo raiſe the poore and needie from the dunghill, and ſet them with Princes. That God who is a God pardoning iniquitie &amp; ſinne, will he ſo gracious as to remove mountains of trouble. For he that can make the cauſe to ceaſe, can make the effect to diſcontinue.</p>
+            </div>
+            <div n="108" type="part">
+               <head>CVIII.</head>
+               <p>TOo many there are that make haſt to be rich, I feare more haſt then good ſpeed, and have neſted themſelves on high, with more celeritie then ſinceritie. Tis the end which moſt ayme at, not regarding the means of attaining it, they care not how bad the
+<pb n="159" facs="tcp:169458:89"/>meanes be, ſo the end be great. Yet is it not unuſuall to ſee men decline faſter then they were rai<g ref="char:EOLhyphen"/>ſed, and poverty to come upon them with more haſt then their wealth did. The higher the riſe is, the ſwifter and more precipitate is the fall. If riches be my end, I will chooſe the moſt right and plaineſt wayes, and uſe the faireſt and moſt lawfull meanes; and if my corruptions drive mee on too faſt, I will ſlack my pace by faith. He that beleeveth doth not make haſt; thus though I have waited the longer for an eſtate, it ſhall ſtay the longer with me.</p>
+            </div>
+            <div n="109" type="part">
+               <head>CIX.</head>
+               <p>OUr Saviour having ſent forth his Apoſtles unprovided to ſee too, without ſtaffe, ſcrippe, mo<g ref="char:EOLhyphen"/>ney; demands of them at their re<g ref="char:EOLhyphen"/>turne what they wanted, and they
+<pb n="160" facs="tcp:169458:90"/>ſaid, <hi>nothing.</hi> A ſtrange anſwer conſidering the length of their journey, the diverſitie of their hearers, and the contrarietie of their new doctrine to fleſh and bloud, yet that they ſhould be ac<g ref="char:EOLhyphen"/>commodated with every thing. No queſtion but they were truly welcome to many, and it might appear ſo by their entertainment; yet ſuch a worke as they went a<g ref="char:EOLhyphen"/>bout, might want a ſupply of ma<g ref="char:EOLhyphen"/>ny things. Chriſt told them, <hi>That the labourer was worthy of his hire;</hi> but many might thinke then, as now in our dayes, preaching to be ſcarce worth the hearing, much leſſe paying. Surely in this worke of Chriſt, Chriſt was with them in a more ſpeciall manner; His fulneſſe was enough to ſupply all their wants, at leaſt to make them content in all eſtates, &amp; not mur<g ref="char:EOLhyphen"/>mure at their pay, ſo their worke
+<pb n="161" facs="tcp:169458:90"/>went on. Lord, as thou waſt with them, ſo thou haſt promiſed to be with thine till the end of th e world. Goe thou forth therefore with me thy ſervant, who is to goe forth emptie as they, and then at my return, their anſwer to thee ſhall be mine to others, <hi>I want nothing.</hi>
+               </p>
+            </div>
+            <div n="110" type="part">
+               <head>CX.</head>
+               <p>
+                  <hi>VVicked men are the rod of Gods anger,</hi>
+                  <note place="margin">Iſa. 10.5</note> 
+                  <hi>and the ſtaffe of his indignation,</hi> ſo call'd by the Prophet; where 'tis worth the ob<g ref="char:EOLhyphen"/>ſerving, where 'tis ſaid, <hi>the ſtaffe, i.e.</hi> the power in their hand, is not their indignation, but Gods. Now the anger of God is but for a mo<g ref="char:EOLhyphen"/>ment, theirs is implacable; and if therefore they are Gods rod, wee muſt not ſo much look to the in<g ref="char:EOLhyphen"/>ſtrument, as to the hand that u<g ref="char:EOLhyphen"/>ſeth it. They cannot give a blow
+<pb n="162" facs="tcp:169458:91"/>more, if God lay downe the rod; and when the childe is chaſtiſed and amended, the rod is caſt into the fire. The rod of the wicked may fall on the lot of the righte<g ref="char:EOLhyphen"/>ous, but it ſhall not reſt there; Judgement may begin at Gods houſe; but it ſhall be but a little while,<note place="margin">Iſa. 10.25.</note> &amp; the indignation of God ſhall ceaſe in ungodly mens de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epigraph">
+            <bibl>ISA. 33.1.</bibl>
+            <q>WOe to thee that ſpoyleſt, and thou waſt not ſpoyled, and dealeſt treacherouſly, and they dealt not treacherouſly with thee: when thou ſhalt ceaſe to ſpoyle, thou ſhalt be ſpoyled, and when thou ſhalt make an end to deale treacherouſly, they ſhall deale treacherouſly with thee.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
